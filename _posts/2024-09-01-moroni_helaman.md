@@ -1,9 +1,8 @@
 ---
-toc: true
-comments: true
 layout: post
-description: The Strippling Warriors, Pahoran, Helaman and his descendents show the depth of faith, leadership, and the enduring power of righteous examples.
+tailwind: true
 title: “Preserved by His Marvelous Power”
+description: The Strippling Warriors, Pahoran, Helaman and his descendents show the depth of faith, leadership, and the enduring power of righteous examples.
 categories: [book-of-mormon]
 image: /images/two_thousand_stripling_warriors.webp
 ---

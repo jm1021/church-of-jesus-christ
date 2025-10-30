@@ -1,9 +1,7 @@
 ---
-toc: true
-comments: true
 layout: post
-description: “They Overcame … by the Blood of the Lamb”
 title: Giving to the Lord
+description: “They Overcame … by the Blood of the Lamb”
 categories: [new-testament]
 image: /images/savior_jesus_teaching_heaven_angels.webp
 ---

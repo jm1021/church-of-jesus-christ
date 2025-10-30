@@ -1,9 +1,8 @@
 ---
-toc: true
-comments: true
-layout: tailwind
-description: Doctrine in Covenants Chapter 27 describes the Angels in the restoration of all things.
+layout: post
+tailwind: true
 title: The Armor of God
+description: Doctrine in Covenants Chapter 27 describes the Angels in the restoration of all things.
 categories: [doctrine-and-covenants]
 image: /images/armor_of_god.png
 ---

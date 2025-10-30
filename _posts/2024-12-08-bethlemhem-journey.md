@@ -1,9 +1,8 @@
 ---
-toc: true
-comments: true
 layout: post
-description: We will consider the prophecies of the Christ child from those who prophesied or made the journey to Bethlehem as a result of the decree by Caesar Augustus.
+tailwind: true
 title: The Journey to Bethlehem
+description: We will consider the prophecies of the Christ child from those who prophesied or made the journey to Bethlehem as a result of the decree by Caesar Augustus.
 categories: [book-of-mormon]
 image: /images/nativity.webp
 ---

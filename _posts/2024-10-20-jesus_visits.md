@@ -1,9 +1,8 @@
 ---
-toc: true
-comments: true
 layout: post
-description: Christ visits the Americas
+tailwind: true
 title: I Am the Law, and the Light
+description: Christ visits the Americas
 categories: [book-of-mormon]
 image: /images/christ_nephites.webp
 ---

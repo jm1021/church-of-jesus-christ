@@ -1,9 +1,7 @@
 ---
-toc: true
-comments: true
 layout: post
-description: In that garden and later on the cross, Jesus took upon Himself the sins, pains, and sufferings of every person who ever lived.
 title: Not My Will, but Thine, Be Done
+description: In that garden and later on the cross, Jesus took upon Himself the sins, pains, and sufferings of every person who ever lived.
 categories: [new-testament]
 image: images/gethsemane_grove.jpeg
 ---

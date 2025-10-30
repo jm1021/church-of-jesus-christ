@@ -1,9 +1,7 @@
 ---
-toc: true
-comments: true
 layout: post
-description: The Savior is “the chief corner stone. Put off the old man” and “put on the new man” through Jesus Christ.
 title: I Can Do All Things through Christ Which Strengtheneth Me
+description: The Savior is “the chief corner stone. Put off the old man” and “put on the new man” through Jesus Christ.
 categories: [new-testament]
 image: images/cornerstone_temple.webp
 ---

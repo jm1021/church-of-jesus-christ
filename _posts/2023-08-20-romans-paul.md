@@ -1,9 +1,7 @@
 ---
-toc: true
-comments: true
 layout: post
-description: With that power, the Savior’s redeeming power, we can overcome evil—both evil in the world and evil in ourselves—with good.
 title: Overcome Evil with Good
+description: With that power, the Savior’s redeeming power, we can overcome evil—both evil in the world and evil in ourselves—with good.
 categories: [new-testament]
 image: images/roman_forum.jpeg
 ---

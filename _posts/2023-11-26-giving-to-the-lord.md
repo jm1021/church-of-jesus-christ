@@ -1,9 +1,7 @@
 ---
-toc: true
-comments: true
 layout: post
-description: Giving is a manifestation of our love for God and His children.
 title: Giving to the Lord
+description: Giving is a manifestation of our love for God and His children.
 categories: [new-testament]
 image: /images/refugee_project_hungry_fed.webp
 ---

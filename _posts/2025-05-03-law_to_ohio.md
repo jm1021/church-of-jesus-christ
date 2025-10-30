@@ -1,7 +1,6 @@
 ---
-toc: true
-comments: true
-layout: tailwind
+layout: post
+tailwind: true
 description: Doctrine in Covenants Chapter 42 describes the Law given to the Saints of Ohio.
 title: The Law 
 categories: [doctrine-and-covenants]

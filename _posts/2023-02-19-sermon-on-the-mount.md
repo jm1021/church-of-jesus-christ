@@ -1,8 +1,8 @@
 ---
 layout: post
+title: “Blessed Are Ye”
 description: 
 categories: [new-testament]
-title: “Blessed Are Ye”
 image: images/sermon_on_the_mount.jpeg
 ---
 

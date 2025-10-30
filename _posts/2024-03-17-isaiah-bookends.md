@@ -1,9 +1,7 @@
 ---
-toc: true
-comments: true
 layout: post
-description: I prophesy unto you concerning the last days,  Nephi wrote (2 Nephi 26:14). In other words, he was writing about our day.  Nephi spoke of “a marvelous work and a wonder” led by God Himself (2 Nephi 27:26).
 title: A Marvelous Work and a Wonder 
+description: I prophesy unto you concerning the last days,  Nephi wrote (2 Nephi 26:14). In other words, he was writing about our day.  Nephi spoke of “a marvelous work and a wonder” led by God Himself (2 Nephi 27:26).
 categories: [book-of-mormon]
 image: /images/jesus_woman.webp
 ---

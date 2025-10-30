@@ -1,9 +1,7 @@
 ---
-toc: true
-comments: true
 layout: post
-description: King Benjamin taught his people how to both receive and retain a remission of sins.
 title: A Mighty Change
+description: King Benjamin taught his people how to both receive and retain a remission of sins.
 categories: [book-of-mormon]
 image: /images/king_benjamin.webp
 ---
