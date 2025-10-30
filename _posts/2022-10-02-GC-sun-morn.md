@@ -3,7 +3,6 @@ toc: false
 title: 2022 Oct General Conference
 description: Notes on General Conference Sunday Morning Session.
 layout: post
-
 ---
 
 ## Anecdotal/Announcements

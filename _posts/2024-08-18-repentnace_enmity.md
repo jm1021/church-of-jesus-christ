@@ -4,6 +4,7 @@ comments: true
 layout: post
 description: The great plan of happiness is fullfilled as we stand fast in the Faith of Christ. 
 title: Stand Fast in the Faith of Christ
+categories: [book-of-mormon]
 image: /images/christ_resurrected.webp
 ---
 

@@ -4,6 +4,7 @@ comments: true
 layout: post
 description: “His Name Shall Be Called … The Prince of Peace” 
 title: The Prince of Peace 
+categories: [book-of-mormon]
 image: /images/isaiah_scrolls.webp
 ---
 

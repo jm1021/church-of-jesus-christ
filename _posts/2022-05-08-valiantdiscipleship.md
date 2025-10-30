@@ -2,7 +2,6 @@
 toc: true
 layout: post
 description: With faith in Christ, we need not fear the reproach of men or be afraid of their revilings.
-
 title: Valiant Discipleship in the Latter Days
 image: images/jorg-klebingat.jpeg
 ---

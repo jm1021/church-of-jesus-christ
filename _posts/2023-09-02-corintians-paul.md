@@ -4,6 +4,7 @@ comments: true
 layout: post
 description: Church members in Corinth struggled to maintain unity, so Paul sought to help them find unity in their belief in Christ.  The messages to the Greeks often engaged with Greek philosophy and sought to demonstrate the benefit of Christ's teachings and the gospel over the wisdom of the world.
 title: Ye Are the Body of Christ
+categories: [new-testament]
 image: images/corinth_greece.jpeg
 ---
 

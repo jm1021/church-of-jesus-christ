@@ -4,6 +4,7 @@ comments: true
 layout: post
 description: Giving is a manifestation of our love for God and His children.
 title: Giving to the Lord
+categories: [new-testament]
 image: /images/refugee_project_hungry_fed.webp
 ---
 

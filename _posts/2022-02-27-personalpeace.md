@@ -2,7 +2,6 @@
 toc: true
 layout: post
 description: It has never been more important to seek personal peace.
-
 title: Personal Peace in Challenging Times
 image: images/qcook.png
 ---

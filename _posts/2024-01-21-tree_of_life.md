@@ -4,6 +4,7 @@ comments: true
 layout: post
 description: Lehi’s dream—with its iron rod, mists of darkness, spacious building, and tree with “most sweet” fruit—is an inspiring invitation to receive the blessings of the Savior’s love and atoning sacrifice.
 title: Come and Partake of the Fruit
+categories: [book-of-mormon]
 image: /images/lehis_dream_steven_neal.webp
 ---
 
