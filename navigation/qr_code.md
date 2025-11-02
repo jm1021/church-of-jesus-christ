@@ -5,7 +5,7 @@ title: QR Code
 description: QR Code for Come Follow Me Lessons and other Church related materials.
 ---
 
-## Access Come Follow Me Lessons
+## Access
 
 Scan the QR code below to access the lesson site designed by John Mortensen for the Church of Jesus Christ of Latter-day Saints.
 
