@@ -114,3 +114,4 @@ minima:
   nav_pages:
     - navigation/search.md
     - navigation/about.md
+    - navigation/qr_code.md
