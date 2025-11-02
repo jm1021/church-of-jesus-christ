@@ -29,6 +29,9 @@ layout: opencs
   {%- endif %}
 {% endfor %}
 
+<div style="text-align:center; margin: 2em 0;">
+  <img src="{{site.baseurl}}/images/qr_code.png" alt="QR Code for Come Follow Me Lessons" style="max-width:180px; width:100%; height:auto; box-shadow:0 2px 8px rgba(0,0,0,0.1); border-radius:12px;">
+</div>
 <!-- Generate Card for each Post -->
 {% assign sticky_posts = sticky_posts | sort: "sticky_rank", "last" %}
 {% assign posts = sticky_posts | concat: non_sticky_posts %}
