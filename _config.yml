@@ -113,3 +113,4 @@ minima:
     - { platform: youtube, user_url: "https://www.youtube.com/@OpenCodingSociety" } 
   nav_pages:
     - navigation/search.md
+    - navigation/about.md

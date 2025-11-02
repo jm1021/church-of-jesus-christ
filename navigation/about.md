@@ -1,8 +1,7 @@
 ---
 layout: post 
 title: About
-description: My name is John, often referred to as "Mr M(ort)" in my CompSci classes. I am primary author and keeper of these CompSci materials.
-menu: nav/home.html
+description: My name is John, often referred to as "Brother Mortensen" in my Church Circles. I am primary author and keeper of these Church of Jesus Christ of Latter-Day-Saints lessons.
 ---
 
 ## As a conversation Starter
