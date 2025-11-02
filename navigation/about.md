@@ -1,14 +1,14 @@
 ---
 layout: post 
 title: About
-description: My name is John, sometimes referred to as "Brother Mortensen" in my Church Circles. But please call me John, or "Brother John" if you like formality.  I am primary author and keeper of these Church of Jesus Christ of Latter-Day-Saints lessons.
+description: My name is John, sometimes referred to as "Brother Mortensen" in my Church Circles. But please call me John, or "Brother John" if you like formality. I am primary author and keeper of these Church of Jesus Christ of Latter-day Saints lessons.
 ---
 
 ## Testimony
 
 > I solemnly proclaim that God loves His children in every nation of the world. God the Father has given us a divine birth, and as His children, we are blessed with a divine and incomparable life. We learn, we sometimes fail, and through the infinite atoning sacrifice of His Beloved Son, Jesus Christ, we become whole as we lift our heads through adversity and rejoice. By the power of the Father, Jesus rose again and gained victory over death. He is our Savior, our Exemplar, and our Redeemer—redeeming us even through death and allowing us to be “Together in Heaven,” reunited with our “Families Forever.”
 
-## As a conversation Starter
+## As a Conversation Starter
 
 Here are some places I have lived.
 
@@ -102,25 +102,25 @@ Flags are made using Wikipedia images
 
 ### Journey through Life
 
-Here is what I did at those places
+Here is what I did at those places:
 
-- 🏫 Lots of Elementary Schools in Tucson, LA, Honolulu, and Glendale (CA)
+- 🏫 Lots of Elementary Schools in Tucson, L.A., Honolulu, and Glendale (CA)
 - 🏫 Middle and High School in Glendale (CA), Hoover High graduated '77
-- 🎓 Glendale CA Community College, UCLA Extension, LA Wilshire Computer Tech School '77 to '79
-- ⛪ England, London Missionary for Church of Jesus Christ of Latter-day Saints '79 to '81
-- 💼 Culver City, Glendale CA founder at Ashton-Tate, original PC's dBase 2 and 3 '82 to '87
-- 🎓 Eugene Oregon Undergraduate CompSci Degree at University of Oregon (Go Ducks!) '89 to '91
-- 💼 Eugene Oregon, founder and owner @ Microniche `88, Point Control CAD CAM developer '91 to '96
-- 🏢 San Diego CA Qualcomm, Satellite Comm and 1st Mobile OS (BREW) '96 to '19
-- 👨‍🏫 San Diego CA Teacher of Computer Science @ Del Norte High School San Diego '19 to present
+- 🎓 Glendale CA Community College, UCLA Extension, L.A. Wilshire Computer Tech School '77 to '79
+- ⛪ London, England – Missionary for the Church of Jesus Christ of Latter-day Saints, '79 to '81
+- 💼 Culver City, Glendale CA – founder at Ashton-Tate, original PC's dBase 2 and 3, '82 to '87
+- 🎓 Eugene, Oregon – Undergraduate CompSci Degree at the University of Oregon (Go Ducks!), '89 to '91
+- 💼 Eugene, Oregon – founder and owner @ Microniche '88, Point Control CAD CAM developer, '91 to '96
+- 🏢 San Diego, CA – Qualcomm, Satellite Comm and 1st Mobile OS (BREW), '96 to '18
+- 👨‍🏫 San Diego, CA – Teacher of Computer Science @ Del Norte High School, '19 to present
 
 ### Culture, Family, and Fun
 
 Everything for me, as for many others, revolves around family and faith. Oh, to stay in context of this site ... don't forget I like code, code, coding.
 
-- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
-- My family is pretty big as I have been married twice, my 1st wife passed away.  We have had 5 kids, 4 adopted by me, 1 biological.  Plus, there are three grandkids.  My name to my grandkids is Abuilito.
-- The gallery of pics has some of my family, fun, culture and faith memories.
+- My mother told me that I was Danish, English, and Irish. Here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png).
+- My family is pretty big as I have been married twice; my first wife passed away. We have five kids—four adopted, one biological. Plus, there are three grandkids. My name to my grandkids is Abuelito.
+- The gallery of pics has some of my family, fun, culture, and faith memories.
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
