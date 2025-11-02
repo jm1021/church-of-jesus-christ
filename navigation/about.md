@@ -1,8 +1,12 @@
 ---
 layout: post 
 title: About
-description: My name is John, often referred to as "Brother Mortensen" in my Church Circles. I am primary author and keeper of these Church of Jesus Christ of Latter-Day-Saints lessons.
+description: My name is John, sometimes referred to as "Brother Mortensen" in my Church Circles. But please call me John, or "Brother John" if you like formality.  I am primary author and keeper of these Church of Jesus Christ of Latter-Day-Saints lessons.
 ---
+
+## Testimony
+
+> I solemnly proclaim that God loves His children in every nation of the world. God the Father has given us a divine birth, and as His children, we are blessed with a divine and incomparable life. We learn, we sometimes fail, and through the infinite atoning sacrifice of His Beloved Son, Jesus Christ, we become whole as we lift our heads through adversity and rejoice. By the power of the Father, Jesus rose again and gained victory over death. He is our Savior, our Exemplar, and our Redeemer—redeeming us even through death and allowing us to be “Together in Heaven,” reunited with our “Families Forever.”
 
 ## As a conversation Starter
 
@@ -135,3 +139,4 @@ Gallery of Pics, scroll to the right for more ...
   <img src="{{site.baseurl}}/images/about/grandkids.jpg" alt="Image 11">
   <img src="{{site.baseurl}}/images/about/farm.jpg" alt="Image 12">
 </div>
+
