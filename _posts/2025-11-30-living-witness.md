@@ -4,7 +4,7 @@ tailwind: true
 title: A Living Witness 
 description: Living Witness, Living Water, and Living Christ all describe life-giving, transforming, and renewing powers that turn spiritual “deserts” into spirtitual "life".
 categories: [talk]
-image: /images/nauvoo_temple_old.jpg
+image: /images/living_christ.webp
 ---
 
 ## **Living Witness**
@@ -334,15 +334,19 @@ Not linear. Not simple. But deeply, divinely shaped.
 
 ---
 
-**Jesus sought me when a stranger,
-Wand’ring from the fold of God;**
+Come, Thou Font of Every Blessing
 
-**Let Thy goodness, like a fetter,
+```text
+Jesus sought me when a stranger,
+Wand’ring from the fold of God;
+
+Let Thy goodness, like a fetter,
 Bind my wand’ring heart to Thee.
 Prone to wander, Lord, I feel it,
 Prone to leave the God I love.
 Here’s my heart, O take and seal it;
-Seal it for Thy courts above.**
+Seal it for Thy courts above.
+```
 
 ---
 
