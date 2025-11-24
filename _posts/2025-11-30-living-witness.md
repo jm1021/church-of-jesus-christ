@@ -54,7 +54,7 @@ This parallels what the Spirit does for us spiritually:
 
 ## **Moroni 10:4 — The Divine Formula for Enlightenment**
 
-Moroni teaches that if we ask God with sincere heart, real intent, and faith in Christ, the **Holy Ghost will manifest truth** to us.
+Moroni teaches that if we ask God with a sincere heart, real intent, and faith in Christ, the **Holy Ghost will manifest truth** to us.
 
 This manifestation is the spark—
 the **Living Water** beginning to flow.
@@ -63,12 +63,11 @@ the **Living Water** beginning to flow.
 
 ## **Personal Experiences as a Living Witness**
 
-Below are some of the experiences that formed my understanding of the **Living Christ**, **the Living Water**, and what it means to become a **Living Witness**.
+Below are some of the experiences that formed my understanding of the **Living Christ**, the **Living Water**, and what it means to become a **Living Witness**.
 
 ---
 
 ### **Early Impressions of Light — Becoming a Member of Record**
-
 
 After baptism, something awakened in me. I didn’t have language for it then, but it felt like *noēsis*—an inner awareness that the commandments mattered.
 Whenever I stepped outside them, I **felt** it.
@@ -76,7 +75,7 @@ Whenever I stepped outside them, I **felt** it.
 I also had men who quietly ministered to me for years—Lance Wickman and Roger Hawley. Their lives radiated a steady spiritual light.
 Looking back, I recognize that in them I saw what I now call a **living halo**—a reflection of the Living Christ in an ordinary disciple.
 
-During these years, activities with friends, sports, and youth activities kept me just close enough to “dip my toes” into the water.
+During these years, activities with friends, sports, and youth programs kept me just close enough to “dip my toes” into the water.
 
 ---
 
@@ -86,7 +85,7 @@ College was full:
 
 * a heavy class load,
 * practicing basketball with the college team,
-* long brown hair of the late '70s.
+* the long brown hair of the late ’70s.
 
 But despite the excitement, something in my soul felt **aggravated**—like my life was out of spiritual alignment.
 
@@ -107,7 +106,7 @@ My witness is this: **that manifestation is the Living Water.**
 
 After I asked with all my heart, the change came quickly.
 Not just spiritually—
-**physically, emotionally, socially—something shifted.**
+**physically, emotionally, and socially—something shifted.**
 
 Within days:
 
@@ -127,7 +126,7 @@ Missionary work allows you to see the Living Water come alive in others.
 In **King’s Lynn** and **Wisbech**, I witnessed Pentecostal-like experiences:
 
 * A dark road, a last house, a simple testimony—and a family visibly changed in one evening.
-* A remote farmhouse, no logical reason find it and to knock, yet the Spirit led us there.
+* A remote farmhouse, *no logical reason to find it or knock*, yet the Spirit led us there.
 * A woman who rejected us at the door, then ran after us fifteen minutes later calling us back for her and her children.
 
 We went from zero people to teach to about twenty in a few weeks.
@@ -225,12 +224,12 @@ She was a **Living Witness** in everything—faith, testimony, joy, service.
 
 ### **Her Final Witness**
 
-A second cancer came, **Mesotheleoma**
+A second cancer came: **Mesothelioma**.
 As I blessed her, a memory returned—the missionary experience where we blessed a man who was being called home.
 
 I knew.
 That evening, Tamara and I talked.
-We hoped, prayed—but the Lord took her quickly.
+We hoped and prayed—but the Lord took her quickly.
 
 And I received a sure spiritual witness that she was welcomed in glory—whole, radiant, received by the Christ she had testified of all her life.
 
@@ -257,7 +256,7 @@ They had their own questions, their own grief, their own lenses.
 
 And yet, the Lord provided miracles:
 
-* A one-in-a-million au pair from France—returned missionary, full of light—brought stability into our home.
+* A one-in-a-million au pair from France—a returned missionary, full of light—brought stability into our home.
 * After a year, life opened again.
   I found myself dating—sometimes feeling 46, sometimes 25.
   Trent, Corey, and I even “co-dated” through West Coast Swing and Salsa lessons.
@@ -282,7 +281,7 @@ In 2027, Shay will graduate—marking the conclusion of **40 years of parenting 
 
 I shifted from corporate tech into full-time teaching.
 I’ve now taught seven years—and have been blessed to have Shay as a student for nearly two of them.
-Plus, I have been fortuante to see the blessings of education in many of my students as they progress in their lives.
+I have also been fortunate to see the blessings of education in many of my students as they progress in their lives.
 
 The miracle of finding Lora, forming a new family, and watching my new life unfold has taught me this:
 
@@ -307,7 +306,7 @@ And I hope all my children—even in their doubts—will choose to become **Livi
 Because they already are.
 Every one of them.
 Their lives, goodness, compassion, and growth testify of God’s hand.
-I see it, I feel it.
+I see it. I feel it.
 
 And Lora…
 you are a special part of this story.
@@ -321,22 +320,17 @@ A witness of Christ’s love in my life.
 
 **Life is good with Jesus in the middle.**
 
-Christ shapes us through growth, loss, pruning, and renewal
+Christ shapes us through growth, loss, pruning, and renewal.
 
 Not every garden grows in a straight row.
 Even the most fertile, beautiful garden is sometimes pruned—not as punishment, but as preparation.
 
-Seasons of desert
-
-Seasons of water
-
-Seasons of bloom
-
-Seasons of cutting back, so that something new can grow
+Seasons of desert.
+Seasons of water.
+Seasons of bloom.
+Seasons of cutting back, so that something new can grow.
 
 Not linear. Not simple. But deeply, divinely shaped.
-
-He is the **Living Christ**. we receive his of Living Water, and we develop a personal Living Witness because of both joy and loss.
 
 ---
 
@@ -353,5 +347,5 @@ Seal it for Thy courts above.**
 ---
 
 Jesus, the **Living Christ**, gives influence, power, and healing through the **Living Water**.
-And each of us is invited to take it up—
+And each of us is invited to take it up, even bind to it—
 and become a **Living Witness** of His goodness.
