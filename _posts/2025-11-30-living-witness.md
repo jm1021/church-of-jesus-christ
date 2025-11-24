@@ -347,5 +347,5 @@ Seal it for Thy courts above.**
 ---
 
 Jesus, the **Living Christ**, gives influence, power, and healing through the **Living Water**.
-And each of us is invited to take it up, even bind to it—
+And each of us is invited to take it up, even covenant or bind to it—
 and become a **Living Witness** of His goodness.
