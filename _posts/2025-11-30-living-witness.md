@@ -150,13 +150,102 @@ And over time, we ourselves become Living Witnesses of His work.**
 
 ---
 
-## Living in the Gospel
+## Living in the Gospel — and a Living Witness
 
-All things are not easy or understood.  The Living Water flows forever, but we do not always understand it's course.  My life in LA always had the Living Christ in sight, but I did like my Interceptor 500, the Gym, and my Surboard as I started my work career in one of the first high tech companies.  At Catalina Island on a Young Adult get away I raised out of spear fishing looked across the field and saw a bump-set-spike that turned my head, the spike was by someone name Tamara.
+All things in the gospel are not easy or immediately understood.  
+The Living Water flows forever, but we do not always understand its course.  
+Even during times when my life was full of good things—when I lived in LA and kept the Living Christ somewhere in sight—I was also busy enjoying my Interceptor 500, the gym, my surfboard, and the early days of my tech career.
 
-We enganged, hung out, her and cousing moved into our ward, we sang the praises of Jesus at church and life was near perfect.  But, one day she tells me she had reoccuring bump and went to the Dr. and now has Hodgkins Lymphoma and that she was returning to Texas to get treated.
+But everything changed one day on Catalina Island during a Young Adult getaway.  
+I had just risen out of spearfishing, looked across the field, and saw a perfect bump–set–spike.  
+The spike came from someone named **Tamara**.
 
-6-months into this story we decided to get married, she moved into my place, I stayed with a family and we prepped for the Temple.  Medical professionals told us there was no progress in cancer from related radiation and chemo therapy.  There were many fasts and prayers, including the primary children as she was chorister. Tamara recorded in journal that at the viel ceremony that she felt some sort of quickening. after our honeymoon we returned to doctors appointment to find there was no cancer.  The Hodgkins was forever gone, but Tamara could not have children.
+That single moment turned my head—and then changed my life.
 
-We moved from LA to Eugene, Oregon on business and education opportunities.  We asked a patriarch about the promises of children in our patriarachal blessing, he told us to be patient.  But we did not need to be, with a week a friend from LA told us about an adoption... Trent.   Then there was Corey.  We had Allaya for a year.  Then there was Claire.  Tamara and I spend near 20-years in marriage.  But a new cancer arrived.  The Living Waters seemed to be wrong.   As I blessed Tamara for a new miracle, instantly I reflected on a blessing many years earlier, a missionary blessing to a man who we anointed to pass.  That was the thought discussed with Tamara later that evening, we tried but the Lord took her.  But I had a Living Witness that she was well accepted in the glory of the next step.
+---
 
+### Meeting a Living Witness
+
+We talked, we spent time together, and soon she and her cousin moved into our ward.  
+We sang the praises of Jesus at church, we shared testimonies, and life felt almost perfect.
+
+Then one day she told me about a recurring bump.  
+She had gone to the doctor.  
+The diagnosis came back: **Hodgkin’s Lymphoma**.  
+She was moving home to Texas for treatment.
+
+Six months after that moment, we decided to get married.  
+She moved into my place while I stayed with a family and we prepared for the temple.  
+But the medical news didn’t improve. The professionals told us there had been **no progress** from radiation or chemotherapy.
+
+There were many fasts and prayers—whole families, friends, and even the Primary children where she served as chorister.  
+Tamara recorded in her journal that at the veil ceremony, she felt a **quickening**, a spiritual shift she couldn’t fully describe.
+
+When we returned from our honeymoon and went to her medical appointment, the doctors told us:  
+**There was no cancer. Hodgkin’s was gone.**  
+Forever.
+
+But the treatment meant she could not have children.
+
+---
+
+### Miracles Flowing Through Living Water
+
+We moved from LA to Eugene, Oregon for work and school.  
+We met with a patriarch to ask about the promises of children in our patriarchal blessings.  
+He told us to *be patient*.
+
+But we didn’t have to wait long. Within a week, a friend from LA told us about an adoption opportunity.  
+And then came **Trent**.  
+Then **Corey**.  
+We had **Allaya** for a year.  
+Then **Claire**.
+
+God’s Living Water kept flowing—sometimes in surprising directions—but always bringing life.
+
+Tamara and I had almost twenty years together.  
+She was a **Living Witness** in everything she did:  
+her testimony, her faith, her service, her joy, her belief in miracles.  
+People around her felt it.  
+I felt it.
+
+---
+
+### The Final Witness
+
+Then a new cancer arrived.  
+And this time, the Living Waters seemed to be flowing differently than before.  
+As I blessed her, hoping for a new miracle, a very clear memory came to me—the missionary blessing many years earlier, when we anointed a man who was being called home.  
+
+That impression stayed with me.  
+Later that evening, I talked with Tamara about it.  
+We both hoped. We both prayed.  
+But the Lord took her quickly.
+
+Yet in that moment—and ever since—I have had a **Living Witness** that she was received in glory, welcomed beyond the veil, whole and filled with the Living Christ she testified of her entire life.
+
+Tamara was, to me,  
+**a Living Witness of the Living Christ**,  
+a vessel of **Living Water**,  
+and a reminder that this path is real, that God is close, and that His miracles are not abstract.
+
+They were in her.  
+And through her, I often saw Him.
+
+---
+
+## Living Water Continues
+
+My next step was raising 16, 15, 7 year old as a widower.  The veil is thin in those moments of grief.  I have tender mercy experience with Jesus visiting me in a dream and very real expience with Tamara at my bedside.  In these times I was working but the Spirit of God was close.
+
+My experinces with the spirit were not necessarily my childrens or their friends experiences.  Me being a Living Witness for my children has always been difficult.  They may see solace or grief, and how they interpet it is through their own lense.  Why is Dad ...?    I was able to obtain an Opair from France, a return missionary, who came to San Diego.  This is a one-in-a-million blessing that could not be ignored by me.
+
+Then after a year there was dating again, sometimes I was wondering if I were 46 or 25 was often the question.  I even was co-dating with Trent and Corey, as we all enrolled in the West Coast Swing and Salsa together with are girlfriend dance partners.
+
+The Living Christ manifested a new miracle Lora, I really looked at her in a new way when we talked in the Celestial Room at the San Diego Temple.  Lora was presented to me as a new angel in that momemnt.  That and a future Temple visit and car ride helped me understand that the Living Christ provides miracles, I shout horay through my sun roof that evening.
+
+Lora and I have 19 years of adventures under our belt and we look forward to 2026, these years brought Tiernan to me and Shay to us.  2027 will be Shay's graduation and the end of 40 years of parenting minors.  During this time, I changed from Tech to EdTech and I am in my 7th year of teaching, including Shay a a student for 2-years of CompSci.  The miracle of find Lora and experience a new family defy all my perceptions, but as I reflect on the years it must be his plan to increas my ability to be a Living Witness.
+
+Directions change, but a my center continues on the Living Christ, recognizing his Living Water.  Lora and I hope to cellebrate our 20th year in Europe and my hope is we will all (including Shay) will be missionaries in 2027.  I hope Shay and all my children continue to adopt a philosophy of being a Living Witness and see what comes.
+
+My testimony is, Life is good with Jesus in the middle,
