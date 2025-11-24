@@ -352,6 +352,6 @@ Seal it for Thy courts above.**
 
 ---
 
-Jesus gives influence, power, and healing through the **Living Water**.
+Jesus, the **Living Christ**, gives influence, power, and healing through the **Living Water**.
 And each of us is invited to take it up—
 and become a **Living Witness** of His goodness.
