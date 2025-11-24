@@ -49,46 +49,114 @@ Moroni 10:4 offers a clear method for gaining spiritual understanding: ask God, 
 
 ---
 
-## My Personal Enlightnement
+## Personal Experiences as a Living Witness
 
-In my early life I had several touches of englightement. As a young boy, I lived with a single Mom (Merna) and I remember my brother (Jase) as my primary family figures.
+Below are a few experiences that have shaped how I understand  
+**the Living Christ**, **the Living Water**, and what it means to become a **Living Witness**.
 
-- Our lifes seemed to be in the pursuits of the fantasies of Wiki Beach, LA, Hollywood, and they playful in cultures of the world.  
-- Yearly my Mom sent me to Arizona for summers.  In those summers, I was exposed to family life and a God centered culture with my Aunt Sylvia.  
-- I am not exactly sure sure how the decision came about, but one summer I was baptised into The Church of Jesus Christ of Latter-day Saints by my Uncle Paul.
+---
 
-### Member of Record
+### Member of Record — Early Impressions of Light
 
-This act of baptism somehow activated a form of "noēsis" as when doing something outside of the commandments set forth by The Church of Jesus Christ of Latter-day Saints I could feel it.  
+After baptism, something awakened in me. In hindsight, it felt like a type of *noēsis*—an inner knowing.  
+Whenever I stepped outside the commandments of The Church of Jesus Christ of Latter-day Saints, I **felt** it.  
+Something spiritual was active, alive, and signaling.
 
-Additionally I had figures like Lance Wickman and Roger Hawley that ministered to me for many years and I reflect on how I perceived their light, aka halo.  Activities with girls or sports had me dip my toes in spiritual events for the next 10 years.
+I also had men who ministered to me for many years—Lance Wickman and Roger Hawley.  
+Looking back, I recognize the *light* I perceived in them.  
+Their presence, their calm, their consistency… it was my first personal example of what I would now call a **living halo**—the evidence of the Living Christ reflected in the life of a disciple.
 
-### College
+During those years, activities with young women or sports occasionally brought me back to spiritual moments—just enough to **dip my toes** into the water for almost a decade.
 
-I had a life preparing course load, was practicing basketball with college team, and had my long locks of brown hair.  But my pursuits aggravated my soul and at the end of my 1st year I turned to the Book of Mormon for solace, I knew the pursuit of Moroni's promise and with all passion for many weeks I read the Book of Mormon.
+---
 
-### The Living Water
+### College — A Turning of the Soul
 
-4 And when ye shall receive these things, I would exhort you that ye would ask God, the Eternal Father, in the name of Christ, if these things are not true; and if ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost.
+In college, life was full:  
 
-5 And by the power of the Holy Ghost ye may know the truth of all things.
+- a heavy course load,  
+- practicing basketball with the college team,  
+- and my trademark long brown hair of the late 70s.
 
-My witness is this is the Living Water.  I remember my life transformed as I asked, something in me changed.  Not only spiritually, but in the week that followed I became united in faith in Christ with four High School friends and a renewed acquantance with a girlfried.  
+But despite all the activity, my pursuits **aggravated my soul**. Something felt out of alignment.
 
-1 year of work, and all of us opted to serve missions shortly after that time.  I changed physically and was able to unite with other Spritually.
+At the end of my first year, I turned instinctively to the **Book of Mormon** for solace.  
+I already knew Moroni’s promise. So with real intent—with passion, even—I read the Book of Mormon for many weeks.
 
-### A Living Witness
+I was searching for the Living Christ.  
+What I received was the **Living Water**.
 
-Missionary Service enables you to witness the Living Water from another perspective as you see others receive it.
+---
 
-As a missionary, there were pentecostal experiences, specifically in Kings Lynn and Wisbech.
+### The Living Water — Moroni’s Promise Fulfilled
 
-The last house down and dark road, a response to the door, baring witness of Heavely Father and Jesus Christ.  Seeing others enveloped in the Living Water, an evening transformation so powerful that they start the process of change.
+> **Moroni 10:4–5**  
+> 4 *If ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you by the power of the Holy Ghost.*  
+> 5 *And by the power of the Holy Ghost ye may know the truth of all things.*
 
-Another day in the country, what seemed like going to a way-out-of the way farmhouse and finding a family and many children who recently relocated to the area.  There was no internet, but we felt led to a powerful gospel family.
+My witness is this: **this manifestation is the Living Water.**
 
-Or an evening where a lady rejected us at the door.   But, about 15 minutes later as we were about to do away from tracting in vain, the lady came running down the street and asked us to come back to her and her three children.
+I remember the moment I asked, and how my life immediately began to change.  
+Not just spiritually—**something in me shifted physically, emotionally, socially.**
 
-It was an amazing and formidable witness for me in the Living Christ. He wanted us to discover and withing a few weeks we went from 0 to about 20.
+Within a week, four of my high school friends and I became united in faith in Christ and a hope for meaning.  
+I reconnected with a former girlfriend with a new sense of seeking spiritual purpose.
 
-In 2015 I was able to return, 40-years later, and see the Living Witness of a generation beyond who received the Living Water from those who received the gospel.  It renewed the pentecostal experience,  accompanying me was an adult who joined the church many years ago, during that same period that discovered me shortly before this business trip.   We taught him in what seemed to be a unlikely situation.  The boy now served in neighboring city Ward Bishopric, the mom remarried and served 3 missions, many talked of the man and family from the country.  He was convalising at home and with work colleague, boy to Bishopric, and tracked up Branch President we expressed the Living Witness, Living Water, and Living Witness actively and reflectively
+We all worked on our lives for a year, and then—individually but collectively—we each chose to serve missions.  
+The Living Water didn’t just fill me; it **united us**.
+
+---
+
+### A Living Witness — Seeing the Water Flow Into Others
+
+Missionary service shows the Living Water from the other side:  
+you see what it looks like when **others** receive it.
+
+I witnessed Pentecostal-like experiences—especially in **King’s Lynn** and **Wisbech**.
+
+- **A dark road, the last house, a simple testimony**—and I watched a family be enveloped in the Living Water. In one evening, a visible transformation began.
+  
+- **A remote farmhouse**, seemingly out of the way, yet perfectly placed. We met a family who had recently moved. Without internet or any logical contact route, the Spirit still led us directly to them.
+
+- **A woman who rejected us at the door**, then ran down the street 15 minutes later asking us to return for her and her three children. The Living Water had reached into her heart before we even walked away.
+
+In that area, we went from zero people to teach to about twenty within a few weeks.  
+It was a profound witness to me that the **Living Christ** actively sought these individuals.
+
+---
+
+### Returning 40 Years Later — A Living Witness Across Generations
+
+In 2015, I returned to that area—**40 years later**.
+
+I saw a generation that had grown from those early conversions.  
+It felt like reliving a Pentecostal moment, but in reverse—  
+*seeing the Living Water after it had flowed for decades.*
+
+I traveled with a friend who joined the Church during that same missionary period.  
+He had found me unexpectedly before this trip.  
+Back then, we had taught him under unlikely circumstances.
+Now, the boy we taught served in a ward bishopric in a neighboring city.  
+His mother had remarried and served three missions.
+
+Many of the members still remembered the man and family from the countryside.
+They provided me his address and we visited him while he was convalescing at home.  
+With my work colleague, that former boy-turned-bishopric-member, and this tracked up branch president, we spent tender moments together and felt the Spirit confirm the same truth:
+Looking at the photos displayed in his home, seeing a vibrant ward, and hearing about 40 years of memories was sureal
+
+**The Living Christ is real.  
+His Living Water changes lives.  
+And over time, we ourselves become Living Witnesses of His work.**
+
+---
+
+## Living in the Gospel
+
+All things are not easy or understood.  The Living Water flows forever, but we do not always understand it's course.  My life in LA always had the Living Christ in sight, but I did like my Interceptor 500, the Gym, and my Surboard as I started my work career in one of the first high tech companies.  At Catalina Island on a Young Adult get away I raised out of spear fishing looked across the field and saw a bump-set-spike that turned my head, the spike was by someone name Tamara.
+
+We enganged, hung out, her and cousing moved into our ward, we sang the praises of Jesus at church and life was near perfect.  But, one day she tells me she had reoccuring bump and went to the Dr. and now has Hodgkins Lymphoma and that she was returning to Texas to get treated.
+
+6-months into this story we decided to get married, she moved into my place, I stayed with a family and we prepped for the Temple.  Medical professionals told us there was no progress in cancer from related radiation and chemo therapy.  There were many fasts and prayers, including the primary children as she was chorister. Tamara recorded in journal that at the viel ceremony that she felt some sort of quickening. after our honeymoon we returned to doctors appointment to find there was no cancer.  The Hodgkins was forever gone, but Tamara could not have children.
+
+We moved from LA to Eugene, Oregon on business and education opportunities.  We asked a patriarch about the promises of children in our patriarachal blessing, he told us to be patient.  But we did not need to be, with a week a friend from LA told us about an adoption... Trent.   Then there was Corey.  We had Allaya for a year.  Then there was Claire.  Tamara and I spend near 20-years in marriage.  But a new cancer arrived.  The Living Waters seemed to be wrong.   As I blessed Tamara for a new miracle, instantly I reflected on a blessing many years earlier, a missionary blessing to a man who we anointed to pass.  That was the thought discussed with Tamara later that evening, we tried but the Lord took her.  But I had a Living Witness that she was well accepted in the glory of the next step.
+
