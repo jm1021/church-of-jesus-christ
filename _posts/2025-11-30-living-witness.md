@@ -236,16 +236,88 @@ And through her, I often saw Him.
 
 ## Living Water Continues
 
-My next step was raising 16, 15, 7 year old as a widower.  The veil is thin in those moments of grief.  I have tender mercy experience with Jesus visiting me in a dream and very real expience with Tamara at my bedside.  In these times I was working but the Spirit of God was close.
+After Tamara passed, my next step in life was raising a 16-year-old, a 15-year-old, and a 7-year-old as a widower.  
+In moments of grief, the veil becomes very thin.  
+I had tender mercies during that time—one where the Savior visited me in a dream, and another where I felt Tamara at my bedside in a way that was unmistakably real.  
+During those years, I was working and carrying responsibilities, but the Spirit of God was close.
 
-My experinces with the spirit were not necessarily my childrens or their friends experiences.  Me being a Living Witness for my children has always been difficult.  They may see solace or grief, and how they interpet it is through their own lense.  Why is Dad ...?    I was able to obtain an Opair from France, a return missionary, who came to San Diego.  This is a one-in-a-million blessing that could not be ignored by me.
+My experiences with the Spirit were not always my children’s experiences.  
+Being a **Living Witness** to them has been one of the hardest things I have ever done.  
+They have their own lenses, their own grief, their own questions.  
+Sometimes all they could see was, *“Why is Dad…?”*  
+And yet, even in that struggle, the Lord provided miracles.
 
-Then after a year there was dating again, sometimes I was wondering if I were 46 or 25 was often the question.  I even was co-dating with Trent and Corey, as we all enrolled in the West Coast Swing and Salsa together with are girlfriend dance partners.
+One miracle was an au pair from France—a recently returned missionary—who came to San Diego and helped stabilize our home and brought light to my children.  
+It was a one-in-a-million blessing I could not ignore.
 
-The Living Christ manifested a new miracle Lora, I really looked at her in a new way when we talked in the Celestial Room at the San Diego Temple.  Lora was presented to me as a new angel in that momemnt.  That and a future Temple visit and car ride helped me understand that the Living Christ provides miracles, I shout horay through my sun roof that evening.
+Then, after a year, I began dating again.  
+At times I wondered whether I was 46 or 25.  
+I even ended up “co-dating” with Trent and Corey as we all took West Coast Swing and Salsa together with our girlfriends.  
+It was a strange and joyful chapter—but still part of the Living Water that kept pushing life forward.
 
-Lora and I have 19 years of adventures under our belt and we look forward to 2026, these years brought Tiernan to me and Shay to us.  2027 will be Shay's graduation and the end of 40 years of parenting minors.  During this time, I changed from Tech to EdTech and I am in my 7th year of teaching, including Shay a a student for 2-years of CompSci.  The miracle of find Lora and experience a new family defy all my perceptions, but as I reflect on the years it must be his plan to increas my ability to be a Living Witness.
+---
 
-Directions change, but a my center continues on the Living Christ, recognizing his Living Water.  Lora and I hope to cellebrate our 20th year in Europe and my hope is we will all (including Shay) will be missionaries in 2027.  I hope Shay and all my children continue to adopt a philosophy of being a Living Witness and see what comes.
+### A New Miracle — Lora
 
-My testimony is, Life is good with Jesus in the middle,
+The Living Christ manifested another miracle in my life: **Lora**.
+
+I remember looking at her differently when we talked in the Celestial Room of the San Diego Temple.  
+In that moment, she was presented to me as a new angel in my life—a gift.  
+Another temple visit, and a long car ride afterward, helped me understand that the Living Christ still provides miracles.  
+I literally shouted “hooray” through my sunroof that night.
+
+Lora and I now have 19 years of adventures behind us, and we are looking forward to 2026.  
+These years brought **Tiernan** into my life and **Shay** into ours.  
+In 2027, Shay will graduate, marking the end of **forty years of parenting minors**.
+
+During this time, I moved from tech into full-time Computer Science teaching.  
+I am now in my seventh year—and I have been blessed to have Shay as a student for a near two years of computer science.  
+The miracle of finding Lora, creating a new family, and watching all these connections grow has changed every expectation I once had about life.  
+Looking back, I can see that it has been the Lord’s way of increasing my capacity to be a **Living Witness**.
+
+---
+
+### Looking Forward
+
+Directions in life change, but my center remains the same:  
+**The Living Christ**  
+and  
+**His Living Water**.
+
+Lora and I hope to celebrate our 20th anniversary in Europe.  
+And in 2027, we hope to serve a mission together.  
+My hope is that Shay will serve too, and that all my children—even in their doubts or questions—will continue to embrace the idea of becoming **Living Witnesses**, each in their own way, and see what the Lord will do with their lives.
+
+Because my children are already Living Witnesses to me.  
+Every one of them.  
+Their lives, their goodness, their growth—whether they see it or not—testify of God’s hand.
+
+And Lora… you are a special part of this story.  
+You have been a miracle, a partner, and a witness of Christ’s love in my life.
+
+---
+
+### My Testimony
+
+**Life is good with Jesus in the middle.**  
+He is the Living Christ,  
+
+---
+
+Jesus sought me when a stranger,
+Wand’ring from the fold of God;
+
+--
+
+Let Thy goodness, like a fetter,
+Bind my wand’ring heart to Thee.
+Prone to wander, Lord, I feel it,
+Prone to leave the God I love.
+Here’s my heart, O take and seal it;
+Seal it for Thy courts above.
+
+---
+
+Jesus provides us influence is the Living Water,  
+and each of us is invited to take it up,
+and become a Living Witness of His goodness.
