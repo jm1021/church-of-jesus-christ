@@ -69,6 +69,7 @@ Below are some of the experiences that formed my understanding of the **Living C
 
 ### **Early Impressions of Light — Becoming a Member of Record**
 
+
 After baptism, something awakened in me. I didn’t have language for it then, but it felt like *noēsis*—an inner awareness that the commandments mattered.
 Whenever I stepped outside them, I **felt** it.
 
@@ -110,9 +111,9 @@ Not just spiritually—
 
 Within days:
 
-* four of my high school friends and I found ourselves united in faith,
+* three of my high school friends and I found ourselves united in faith,
 * an old girlfriend and I reconnected with new purpose,
-* and one year later, each of us independently chose to serve missions.
+* each of us independently chose to serve missions.
 
 The Living Water didn’t just fill me—
 it **united** us.
@@ -126,7 +127,7 @@ Missionary work allows you to see the Living Water come alive in others.
 In **King’s Lynn** and **Wisbech**, I witnessed Pentecostal-like experiences:
 
 * A dark road, a last house, a simple testimony—and a family visibly changed in one evening.
-* A remote farmhouse, no logical reason to knock, yet the Spirit led us there.
+* A remote farmhouse, no logical reason find it and to knock, yet the Spirit led us there.
 * A woman who rejected us at the door, then ran after us fifteen minutes later calling us back for her and her children.
 
 We went from zero people to teach to about twenty in a few weeks.
@@ -139,10 +140,11 @@ It was a clear witness that the **Living Christ** was actively gathering His chi
 In 2015, I returned to that area—**forty years later**.
 
 I saw a generation that had grown from those early conversions.
-It felt like seeing Pentecost in reverse—observing what the Living Water had done over decades.
+It felt like seeing Pentecost in reverse—observing what the Living Water had done over four decades.
 
-One man we taught—now serving in a bishopric—joined us on the visit to another family.
+One man we taught—now serving in a bishopric—joined us on the visit to our old ward.
 We reunited with a former branch president and saw photographs and memories stretching across time.
+So many lives changed from distant spiritual events.
 
 The Spirit confirmed to me again:
 
@@ -160,7 +162,7 @@ The Living Water flows constantly, but we do not always understand its course.
 During my years in LA:
 
 * surfing,
-* working out,
+* playing basketball,
 * my Interceptor 500,
 * early tech career…
 
@@ -223,7 +225,7 @@ She was a **Living Witness** in everything—faith, testimony, joy, service.
 
 ### **Her Final Witness**
 
-A second cancer came.
+A second cancer came, **Mesotheleoma**
 As I blessed her, a memory returned—the missionary experience where we blessed a man who was being called home.
 
 I knew.
@@ -271,17 +273,18 @@ Then the Living Christ offered another miracle: **Lora**.
 In the Celestial Room of the San Diego Temple, something changed.
 I saw her differently—truly presented to me as a gift, a new angel in my life.
 
-A later temple visit and a long car ride confirmed that the Lord was still working miracles.
+A later temple visit and a car ride confirmed that the Lord was still working miracles.
 That night I literally shouted “hooray” through my sunroof.
 
 Lora and I have now shared 19 years of adventures.
 These years brought **Tiernan** to me and **Shay** to us.
-In 2027, Shay will graduate—marking **40 years of parenting minors**.
+In 2027, Shay will graduate—marking the conclusion of **40 years of parenting minors**.
 
-I shifted from tech into full-time teaching.
-I’ve now taught seven years—and was blessed to have Shay as a student for nearly two of them.
+I shifted from corporate tech into full-time teaching.
+I’ve now taught seven years—and have been blessed to have Shay as a student for nearly two of them.
+Plus, I have been fortuante to see the blessings of education in many of my students as they progress in their lives.
 
-The miracle of finding Lora, forming a new family, and watching life unfold has taught me this:
+The miracle of finding Lora, forming a new family, and watching my new life unfold has taught me this:
 
 **The Lord has been increasing my capacity to be a Living Witness.**
 
@@ -304,6 +307,7 @@ And I hope all my children—even in their doubts—will choose to become **Livi
 Because they already are.
 Every one of them.
 Their lives, goodness, compassion, and growth testify of God’s hand.
+I see it, I feel it.
 
 And Lora…
 you are a special part of this story.
@@ -316,7 +320,23 @@ A witness of Christ’s love in my life.
 ## **My Testimony**
 
 **Life is good with Jesus in the middle.**
-He is the **Living Christ**.
+
+Christ shapes us through growth, loss, pruning, and renewal
+
+Not every garden grows in a straight row.
+Even the most fertile, beautiful garden is sometimes pruned—not as punishment, but as preparation.
+
+Seasons of desert
+
+Seasons of water
+
+Seasons of bloom
+
+Seasons of cutting back, so that something new can grow
+
+Not linear. Not simple. But deeply, divinely shaped.
+
+He is the **Living Christ**. we receive his of Living Water, and we develop a personal Living Witness because of both joy and loss.
 
 ---
 
