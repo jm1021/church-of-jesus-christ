@@ -26,13 +26,13 @@ It visually testifies of a person’s **spiritual state**.
 
 Two examples:
 
-1. **Leonardo’s *Virgin of the Rocks***
+1. **Leonardo’s *Virgin of the Rocks 1491 to 1508 London Version***
    In the London version, **halos surround Mary, the infant Jesus, and the infant John the Baptist**—foreshadowing their divine ministries.
 
-2. **Giotto’s *Last Supper***
+2. **Giotto’s Last Supper 1306 Gothic period***
    **Jesus bears a gold halo**, the **apostles silver ones**—symbolizing the light Christ extends to His disciples.
 
-Sacred narratives mirror this same symbolism of light descending:
+**Sacred narratives** mirror this same **symbolism of light** descending:
 
 1. **The Burning Bush** — **a divine light** preparing Moses for his calling.
 2. **The First Vision** — **a pillar of light surrounding the Father and the Son** as They prepare Joseph Smith for the Restoration.
