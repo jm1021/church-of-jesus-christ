@@ -133,7 +133,7 @@ As we **bind to the Living Water**, it **flows over us in groups**.
 
 ---
 
-## **On My Mission — Watching the Water Flow Into Others**
+## **On My Mission — Watching the Living Water flow**
 
 Missionary work allows you to see the Living Water come alive in others.
 
