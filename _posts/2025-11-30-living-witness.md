@@ -44,13 +44,20 @@ These moments show a consistent pattern:
 
 ## **The Science of Enlightenment**
 
-Modern **noetic science** studies human consciousness by blending objective tools with subjective spiritual experience.
+Modern **noetic science** studies human consciousness.
 The word **noēsis** means direct inner knowing—another form of enlightenment.
+
+In this disciplane,  **the brain may act as a receiver** or filter **rather than the sole source of knowledge**.  Logically, **the brain may not have space** for the knowledge it obtains.
 
 IMO, this **parallels what the Spirit, the Holy Ghost, the Power of God, the Living Water**:
 **revelation that enlightens both mind and heart.**
 
-This **light is external to us**.  The capacity is beyond self,
+The Halo, or **light is external to us**.  The capacity we have for knowlege is **beyond self**.
+
+- **The glory of God is intelligence, or, in other words, light and truth**
+- Whosoever drinketh of the water that I shall give him shall never thirst;
+but **the water that I shall give him shall be in him a well of water springing up into everlasting life**.
+- **I will tell you in your mind and in your heart, by the Holy Ghost… Now this is the spirit of revelation.**”
 
 ---
 
@@ -71,9 +78,9 @@ Below are some of the experiences that formed my understanding of the **Living C
 
 ### **Early Impressions of Light — Becoming a Member of Record**
 
-I was raised by single **Hollywood Mom**, but I had **two Aunt's and cousins** that shared family and goodness.  Though **family tradition** I was baptised **during summer visit**.
+I was raised by single **Hollywood Mom**, but I had **two Aunt's and cousins** that shared family and goodness.  By **family tradition** I was baptised **during a summer visit**.  Though, practice and understanding came much later.
 
-After baptism, something awakened in me. **I didn’t have language for it then, but it felt like noēsis—an inner awareness** that the commandments mattered.
+But I believe my baptism, awakened me. **I didn’t have language for it then, but it felt like noēsis—an inner awareness** that the commandments mattered.
 Whenever I stepped outside them, I **felt** it.
 
 I also had **men who quietly ministered to me** for years—**Living Wittnesses like Lance Wickman and Roger Hawley**. Their lives radiated a **steady spiritual light**, aka Halo.
@@ -87,11 +94,12 @@ During these years, activities with friends, sports, and youth programs, they **
 
 College was full:
 
-* **a heavy class load**,
-* **practicing basketball with the college team**,
-* the **long brown hair** of the late ’70s.
+- **a heavy class load**,
+- **practicing basketball with the college team**,
+- **working part time**,
+- the **long brown hair** of the late ’70s.
 
-But despite the excitement, something in my soul felt **aggravated**—like my life was out of spiritual alignment.
+But despite the excitement, something in **my soul felt aggravated**—like my life was out of spiritual alignment.
 
 At the end of my first year, I turned instinctively to the **Book of Mormon**.
 I already knew Moroni’s promise, so with real intent I read for many weeks.
@@ -101,9 +109,9 @@ What I received was the **Living Water**.
 
 ---
 
-### **The Living Water — Moroni’s Promise Fulfilled**
+### **The Living Witness — Moroni’s Promise Fulfilled**
 
-> *“He will manifest the truth of it unto you by the power of the Holy Ghost.”*
+> **“He will manifest the truth of it unto you by the power of the Holy Ghost.”**
 > — Moroni 10:4–5
 
 My witness is this: **that manifestation is the Living Water.**
@@ -112,7 +120,7 @@ After **I asked with all my heart, the change came quickly**.
 Not just spiritually—
 **physically, emotionally, and socially—something shifted.**
 
-Within days:
+Within days, I witnessed how **believers congregate**:
 
 * **three of my high school friends** and I found ourselves **united in faith,**
 * an old girlfriend and I reconnected with new purpose, someone who obtained the **living water**
