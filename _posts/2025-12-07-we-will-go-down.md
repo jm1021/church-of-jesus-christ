@@ -19,7 +19,7 @@ This group generally had more opportunity to hear the gospel in life, yet even h
 
 | **Value** | **Description** |
 |-----------|----------------|
-| **126**   | Total ancestors the 127th is me; spouses and descendants not counted in this statistical analysis |
+| **126**   | Total ancestors—the 127th is me; spouses and descendants not counted in this statistical analysis |
 | **20%**   | Received living baptisms into the Church of Jesus Christ of Latter-day Saints |
 | **62%**   | Received proxy baptisms in temples of the Church of Jesus Christ of Latter-day Saints |
 | **18%**   | Missing from the chart—their names and histories remain unknown |
@@ -28,7 +28,7 @@ This group generally had more opportunity to hear the gospel in life, yet even h
 
 ### Abraham 3 - Council in Heaven
 
-Why is a family tree important?  It aligns with the council in Heaven.
+Why is a family tree important? It aligns with the council in Heaven.
 
 24 And there stood one among them that was like unto God, and he said unto those who were with him: **We will go down**, for there is space there, and we will take of these materials, and we will make an earth whereon these may dwell.
 
