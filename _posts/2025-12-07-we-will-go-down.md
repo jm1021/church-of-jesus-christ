@@ -7,11 +7,32 @@ categories: [doctrine-and-covenants]
 image: /images/fan_chart.png
 ---
 
-## Family Tree
+## My Family Tree
 
 ![]({{ site.baseurl }}/images/fan_chart.png)
 
-### Abraham 3
+### Fan Chart Stats
+
+The chart shows people from many places—United States, Denmark, England, Ireland, and Germany.  
+This group generally had more opportunity to hear the gospel in life, yet even here the numbers reveal something important.
+
+#### Scoreboard
+
+| **Value** | **Description** |
+|-----------|----------------|
+| **126**   | Total ancestors the 127th is me; spouses and descendants not counted in this illustration |
+| **20%**   | Received living baptisms into the Church of Jesus Christ of Latter-day Saints |
+| **62%**   | Received proxy baptisms in temples of the Church of Jesus Christ of Latter-day Saints |
+| **18%**   | Missing from the chart—their names and histories remain unknown |
+
+| **Value** | **Description** |
+|-----------|----------------|
+| **80%**   | Still need opportunity—provided by grace—to receive their ordinances |
+| **100%**  | Need opportunity to repent |
+
+### Abraham 3 - Council in Heaven
+
+Why is my family tree important.  It starts with the council in Heaven.
 
 24 And there stood one among them that was like unto God, and he said unto those who were with him: **We will go down**, for there is space there, and we will take of these materials, and we will make an earth whereon these may dwell.
 
@@ -25,42 +46,32 @@ image: /images/fan_chart.png
 
 There is an opportunity for everyone to **“do all things”**—a plan that includes both justice and mercy.  
 
-```text
 - Justice requires repentance and ordinances.  
 - Mercy provides multiple paths to succeed.
-```
-
-### Fan Chart Stats
-
- The chart above shows people can come from many places; this charts shows United States, Danish, English, Irish, and German ancestry.  This chart shows people that are more opportune concerning living opportunities for the gospel.
-
-#### Scoreboard
-
-**126 ancestors** (excluding me the 127th, spouses and descendants).
-
-> **20%** received living baptisms into the Church of Jesus Christ of Latter-day Saints.
-> **62%** received proxy baptisms in temples of the Church of Jesus Christ of Latter-day Saints.
-> **18%** are missing from the chart—their names and histories remain unknown.
-
-#### Justice -- Second estate
-
-Justice, regarding "we will prove" requires us to receive ordinances and succeed in or second estage.
-
-> **80%** of the people in this chart need oppurnity, provide by grace, to receive their ordinances.
-> **100%** of the people in this chart need oppurtinity to repent.
 
 ---
 
-### Mercy -- Doctrine and Covenants 137, 138
+### Justice and Mercy
 
-These passage show he Mercy of God with regards to ordinances and opportunity.  The give us insight into the mission of Jesus Christ.
+The scoreboard numbers show how few actually receive full access to the gospel during mortality.  If justice were the whole story, most of God’s children—including most of our own ancestors—would be left without the blessings Heavenly Father requires.
+
+**This is why mercy is essential.**  
+The Plan works because Christ opens the way for every soul—past, present, or future—to receive the same ordinances, the same truth, and the same opportunity.
+
+---
+
+### Mercy — Doctrine and Covenants 137, 138
+
+These passages show the mercy of God regarding ordinances and opportunity.  
+They give us insight into the mission of Jesus Christ and the reach of His redemption.
 
 ### Doctrine & Covenants 137:7  
 
 “All who have died without a knowledge of this gospel,  
 who would have received it if they had been permitted to tarry,  
-shall be heirs of the celestial kingdom of God.
+shall be heirs of the celestial kingdom of God.”
 
 ### Doctrine & Covenants 137:10  
 
-“And I also beheld that all children who die before they arrive at the years of accountability are saved in the celestial kingdom of heaven.”
+“And I also beheld that all children who die before they arrive at the years of accountability  
+are saved in the celestial kingdom of heaven.”
