@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: About
+title: 👤 
 description: My name is John, sometimes referred to as "Brother Mortensen" in my Church Circles. But please call me John, or "Brother John" if you like formality. I am primary author and keeper of these Church of Jesus Christ of Latter-day Saints lessons.
 ---
 

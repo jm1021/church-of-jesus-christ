@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 });
             } else {
                 // User is not authenticated, then "Login" link is shown
-                loginArea.innerHTML = `<a href="${baseurl}/login">Login</a>`;
+                loginArea.innerHTML = `<a href="${baseurl}/login">🔐</a>`;
             }
             // Set loginArea opacity to 1
             loginArea.style.opacity = "1";
@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', function() {
             // Show login link on error
             const loginArea = document.getElementById('loginArea');
             if (loginArea) {
-                loginArea.innerHTML = `<a href="${baseurl}/login">Login</a>`;
+                loginArea.innerHTML = `<a href="${baseurl}/login">🔐</a>`;
             }
         });
 });
