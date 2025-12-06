@@ -20,7 +20,7 @@ This group generally had more opportunity to hear the gospel in life, yet even h
 
 | **Value** | **Description** |
 |-----------|----------------|
-| **126**   | Total ancestors the 127th is me; spouses and descendants not counted in this illustration |
+| **126**   | Total ancestors the 127th is me; spouses and descendants not counted in this statistical analysis |
 | **20%**   | Received living baptisms into the Church of Jesus Christ of Latter-day Saints |
 | **62%**   | Received proxy baptisms in temples of the Church of Jesus Christ of Latter-day Saints |
 | **18%**   | Missing from the chart—their names and histories remain unknown |
