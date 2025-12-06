@@ -1,13 +1,12 @@
 ---
 layout: post
-tailwind: true
 title: We Will Go Down
 description: The Plan begins with the phrase “We will go down,” giving God’s children a place to learn, choose, and strive to “do all things” He commands. Because agency guarantees mistakes, God provided “a Savior” so we could repent, change, and return. Through Christ, salvation reaches all—even those who “would have received it” had they been given the chance.
 categories: [doctrine-and-covenants]
 image: /images/fan_chart.png
 ---
 
-## My Family Tree
+## A Family Tree
 
 ![]({{ site.baseurl }}/images/fan_chart.png)
 
@@ -25,14 +24,11 @@ This group generally had more opportunity to hear the gospel in life, yet even h
 | **62%**   | Received proxy baptisms in temples of the Church of Jesus Christ of Latter-day Saints |
 | **18%**   | Missing from the chart—their names and histories remain unknown |
 
-| **Value** | **Description** |
-|-----------|----------------|
-| **80%**   | Still need opportunity—provided by grace—to receive their ordinances |
-| **100%**  | Need opportunity to repent |
+---
 
 ### Abraham 3 - Council in Heaven
 
-Why is my family tree important.  It starts with the council in Heaven.
+Why is a family tree important?  It aligns with the council in Heaven.
 
 24 And there stood one among them that was like unto God, and he said unto those who were with him: **We will go down**, for there is space there, and we will take of these materials, and we will make an earth whereon these may dwell.
 
@@ -40,23 +36,29 @@ Why is my family tree important.  It starts with the council in Heaven.
 
 26 And they who keep their **first estate** shall be added upon; and they who keep not their first estate shall not have glory in the same kingdom with those who keep their first estate; and they who keep their **second estate** shall have glory added upon their heads forever and ever.
 
+### Opportunity and Justice
+
+The phrase **“to do all things”** reminds us that life’s plan requires each person to make choices and act according to God’s commandments.  
+The promise of **“glory added upon their heads”** shows the reward for those who faithfully keep their first and second estates.  
+
+| **Value** | **Description** |
+|-----------|----------------|
+| **80%**   | Still need opportunity—required by justice—to receive their ordinances |
+| **100%**  | Need opportunity to repent and overcome the obstacles of agency—required by justice to become pure |
+
 ---
 
 ## The Great Plan of Happiness
 
-There is an opportunity for everyone to **“do all things”**—a plan that includes both justice and mercy.  
+The scoreboard numbers show that if justice were the whole story, most of God’s children—including most of our own ancestors—would be left without the blessings Heavenly Father requires.
 
-- Justice requires repentance and ordinances.  
+> Every ancestor, like every one of us, is invited to **do all things** and receive **added glory** through the plan of salvation.
+
+- Justice requires ordinances and repentance.  
 - Mercy provides multiple paths to succeed.
 
----
-
-### Justice and Mercy
-
-The scoreboard numbers show how few actually receive full access to the gospel during mortality.  If justice were the whole story, most of God’s children—including most of our own ancestors—would be left without the blessings Heavenly Father requires.
-
 **This is why mercy is essential.**  
-The Plan works because Christ opens the way for every soul—past, present, or future—to receive the same ordinances, the same truth, and the same opportunity.
+The Plan works because **Christ opens the way for every soul—past, present, or future**—to receive the same ordinances, the same truth, and the same opportunity.
 
 ---
 
