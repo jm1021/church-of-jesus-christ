@@ -45,44 +45,115 @@ class GameLevelDesert {
         keypress: { up: 87, left: 65, down: 83, right: 68 } // W, A, S, D
     };
 
-      const sprite_src_octocat = path + "/images/gamify/octocat.png";
-      const sprite_greet_octocat = "Hi I am Octocat! I am the GitHub code code code collaboration mascot";
-      const sprite_data_octocat = {
-          id: 'Octocat',
-          greeting: sprite_greet_octocat,
-          src: sprite_src_octocat,
-          SCALE_FACTOR: 10,
-          ANIMATION_RATE: 50,
-          pixels: {height: 301, width: 801},
-          INIT_POSITION: { x: (width / 4), y: (height / 4)},
-          orientation: {rows: 1, columns: 4 },
-          down: {row: 0, start: 0, columns: 3 },
-          hitbox: { widthPercentage: 0.1, heightPercentage: 0.1 },
-          // Add dialogues array for random messages
-          dialogues: [
-              "GitHub helps millions of developers collaborate on code.",
-              "Pull requests are how we suggest changes to repositories.",
-              "Repositories are like folders that store your project files.",
-              "GitHub uses Git, a version control system created by Linus Torvalds.",
-              "Branches let you work on features without affecting the main codebase.",
-              "I'm not just a cat! I'm part octopus too - perfect for multitasking.",
-              "GitHub Actions helps automate your workflows.",
-              "Collaboration is at the heart of open source development."
-          ],
-          reaction: function() {
-              // Use dialogue system instead of alert
-              if (this.dialogueSystem) {
-                  this.showReactionDialogue();
-              } else {
-                  console.log(sprite_greet_octocat);
-              }
-          },
-          interact: function() {
-              // Show random dialogue message
-              if (this.dialogueSystem) {
-                  this.showRandomDialogue();
-              }
-          }
+      const sprite_src_sun = path + "/images/gamify/sun.png";
+      const sprite_greet_sun = "Welcome to the Celestial Kingdom";
+      const sprite_data_sun = {
+        id: 'sun',
+        greeting: sprite_greet_sun,
+        src: sprite_src_sun,
+        SCALE_FACTOR: 3,
+        INIT_POSITION: { x: (width * 63 / 80), y: (height * 0 / 40)},
+        orientation: {rows: 1, columns: 1 },
+        down: {row: 0, start: 0, columns: 3 },
+        hitbox: { widthPercentage: 0.1, heightPercentage: 0.1 },
+        // Add dialogues array for random messages
+        dialogues: [
+            "There are 3 degress in the Celestial Kingdom.",
+            "Celestial Marriage is called the New and Everlasting Covenant.",
+            "God and Jesus Christ live in the Celestial Kingdom.",
+            "The Celestial Kingdom is the highest degree of glory.",
+            "Those who inherit the Celestial Kingdom will live with God and Jesus Christ.",
+            "Families can be together forever in the Celestial Kingdom.",
+            "The Celestial Kingdom is prepared for those who love God and keep His commandments.",
+            "The Celestial Kingdom is a place of peace, joy, and eternal progression."  
+        ],
+        reaction: function() {
+            // Use dialogue system instead of alert
+            if (this.dialogueSystem) {
+                this.showReactionDialogue();
+            } else {
+                console.log(sprite_greet_sun);
+            }
+        },
+        interact: function() {
+            // Show random dialogue message
+            if (this.dialogueSystem) {
+                this.showRandomDialogue();
+            }
+        }
+      };
+
+      const sprite_src_moon = path + "/images/gamify/moon.png";
+      const sprite_greet_moon = "Welcome to the Terrestrial Kingdom";
+      const sprite_data_moon = {
+        id: 'moon',
+        greeting: sprite_greet_moon,
+        src: sprite_src_moon,
+        SCALE_FACTOR: 3,
+        INIT_POSITION: { x: (width * 63 / 80), y: (height * 13 / 40)},
+        orientation: {rows: 1, columns: 1 },
+        down: {row: 0, start: 0, columns: 3 },
+        hitbox: { widthPercentage: 0.1, heightPercentage: 0.1 },
+        // Add dialogues array for random messages
+        dialogues: [
+            "The Terrestrial Kingdom is the second degree of glory.",
+            "Those who inherit the Terrestrial Kingdom are honorable people who were not valiant in the testimony of Jesus.",
+            "The Terrestrial Kingdom is a place of glory, but not the highest glory.",
+            "People in the Terrestrial Kingdom will receive the presence of Jesus Christ, but not the presence of God the Father.",
+            "The Terrestrial Kingdom is a place of peace and happiness for those who lived honorable lives.",
+            "The Terrestrial Kingdom is prepared for those who did not fully accept the gospel of Jesus Christ in this life.",
+            "The Terrestrial Kingdom is a place where people can continue to learn and grow."
+        ],
+        reaction: function() {
+            // Use dialogue system instead of alert
+            if (this.dialogueSystem) {
+                this.showReactionDialogue();
+            } else {
+                console.log(sprite_greet_moon);
+            }
+        },
+        interact: function() {
+            // Show random dialogue message
+            if (this.dialogueSystem) {
+                this.showRandomDialogue();
+            }
+        }
+      };
+
+      const sprite_src_stars = path + "/images/gamify/stars.png";
+      const sprite_greet_stars = "Welcome to the Telestial Kingdom";
+      const sprite_data_stars = {
+        id: 'stars',
+        greeting: sprite_greet_stars,
+        src: sprite_src_stars,
+        SCALE_FACTOR: 3,
+        INIT_POSITION: { x: (width * 63 / 80), y: (height * 25 / 40)},
+        orientation: {rows: 1, columns: 1 },
+        down: {row: 0, start: 0, columns: 3 },
+        hitbox: { widthPercentage: 0.1, heightPercentage: 0.1 },
+        // Add dialogues array for random messages
+        dialogues: [
+            "The Telestial Kingdom is the third degree of glory.",
+            "Those who inherit the Telestial Kingdom are people who did not accept the gospel of Jesus Christ in this life.",
+            "People in the Telestial Kingdom will not receive the presence of Jesus Christ or God the Father.",
+            "The Telestial Kingdom is a place of happiness for those who lived sinful lives.",
+            "The Telestial Kingdom is prepared for those who did not repent and accept the gospel of Jesus Christ in this life.",
+            "The Telestial Kingdom is a place where people can continue to learn and grow."
+        ],
+        reaction: function() {
+            // Use dialogue system instead of alert
+            if (this.dialogueSystem) {
+                this.showReactionDialogue();
+            } else {
+                console.log(sprite_greet_stars);
+            }
+        },
+        interact: function() {
+            // Show random dialogue message
+            if (this.dialogueSystem) {
+                this.showRandomDialogue();
+            }
+        }
       };
     
       const sprite_src_endportal = path + "/images/gamify/exitportalfull.png";
@@ -225,6 +296,9 @@ class GameLevelDesert {
     this.classes = [
       { class: GamEnvBackground, data: image_data_desert },
       { class: Player, data: sprite_data_chillguy },
+      { class: Npc, data: sprite_data_sun }, 
+      { class: Npc, data: sprite_data_moon }, 
+      { class: Npc, data: sprite_data_stars }, 
       { class: Npc, data: sprite_data_endportal } 
     ];
   }
