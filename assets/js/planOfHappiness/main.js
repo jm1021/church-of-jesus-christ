@@ -125,9 +125,9 @@ class GameLevelDesert {
     src: sprite_src_spirtWorld,
     SCALE_FACTOR: 5,
     ANIMATION_RATE: 100,
-    INIT_POSITION: { x: (width * 28 / 80), y: (height * 15 / 40)},
+    INIT_POSITION: { x: (width * 25 / 80), y: (height * 19 / 40)},
     orientation: {rows: 1, columns: 1 },
-    hitbox: { widthPercentage: 0, heightPercentage: 0.1 },
+    hitbox: { widthPercentage: 0, heightPercentage: 0 },
     // Add dialogues array for random messages
     dialogues: [
         "“The faithful elders… continue their labors in the Spirit world” (D&C 138:57).",
