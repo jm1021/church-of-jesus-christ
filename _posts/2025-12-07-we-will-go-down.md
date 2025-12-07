@@ -95,6 +95,8 @@ And after they have paid the penalty of their transgressions.”
 “The dead who repent will be redeemed…
 And all the faithful shall be given a crown of life.”
 
+---
+
 ## Scriptures That Clarify Paradise & Prison
 
 ### Luke 23:43
@@ -133,3 +135,37 @@ Little children and those who die without the law “are redeemed.”
 
 “The hour is coming… when the dead shall hear the voice of the Son of God.”
 > Resurrection and postmortal ministry.
+
+## My Dream on Redemption
+
+Joseph and Joseph F. shared with us our current and future purposes in D&C 137, 138
+
+138:30 But behold, **from among the righteous, he organized his forces and appointed messengers, clothed with power and authority**, and commissioned them to **go forth and carry the light of the gospel** to them that were in darkness, even to all the spirits of men; and thus was the gospel preached to the dead.
+
+Living witnesses or Dead witnesses (enlightened).  Here are highlights of my dream on participating in the redemption.
+
+---
+
+Sunday Jan 17, 2016, recorded in my scriptures
+
+- At a very expensive event I was asked to leave, as I had lost my ticket.
+- Left Worldly even
+  - Someone proclaimed that Christ appeared, many fell in misery.
+  - I wondered if I would fall in shame as well.  But somehow I felt bolstered, perhaps the atonement.
+  - Christ came in my direction and we talked, he made me feel pure!
+  - We talked about pressing matters, perhaps the redemption.
+  - We disusse Tamara and he assured me she was very important and busy.  I reflected on her teaching 'little children' music in primary.
+  - Christ even talked to me about my delimas with prayer, which quickly went into a technology talk. (Surely about brains being receivers, not only audio but feelings.)
+  - As he left he told me where he would be, it was a maintenance office in the theater where I lost my ticket.
+- Returned to Woldly concerns
+  - I went to a service desk, there was much incompetence, a lowly staff member slipped me a copy of my ticket as the show was let out.
+  - I got involved in office, service desk, in make corrections, appointing and releasing staff.  We set goals for better service.
+  - As I came out, Christ was there as a maintenance man. He told me I could use a vehicle to reunite with my family.
+- Seeing Family Past and Present
+  - I was with another travelor who seemed to be taking me somewhere I did not want to go.  I requested to be released as I wanted to return to Lora and Shay.  
+  - This travelor was shocked and asked me to look iinto the door where there were many family members who greeted me with acceptance and hugs.
+- I awoke from My Dream
+  - I recorded my dream
+  - I read something required by Ward Council r
+  - I prepped for Sunday School lesson and read 138:30
+- At that moment, "The gospel feels glorious"
