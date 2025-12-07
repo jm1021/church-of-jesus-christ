@@ -41,7 +41,7 @@ class GameLevelDesert {
         up: {row: 3, start: 0, columns: 3 },
         upLeft: {row: 2, start: 0, columns: 3, rotate: Math.PI/16 },
         upRight: {row: 1, start: 0, columns: 3, rotate: -Math.PI/16 },
-        hitbox: { widthPercentage: 0.45, heightPercentage: 0.2 },
+        hitbox: { widthPercentage: 0.45, heightPercentage: 0.45},
         keypress: { up: 87, left: 65, down: 83, right: 68 } // W, A, S, D
     };
 
@@ -53,9 +53,9 @@ class GameLevelDesert {
     src: sprite_src_premortal,
     SCALE_FACTOR: 3,
     ANIMATION_RATE: 100,
-    INIT_POSITION: { x: (width * 2 / 80), y: (height * 0 / 40)},
+    INIT_POSITION: { x: (width * 5 / 80), y: (height * 5 / 40)},
     orientation: {rows: 1, columns: 1 },
-    hitbox: { widthPercentage: 0.1, heightPercentage: 0.1 },
+    hitbox: { widthPercentage: 0.2, heightPercentage: 0.55 },
     // Add dialogues array for random messages
     dialogues: [
         "“I saw the hosts of the dead, both small and great” (D&C 138:11). We lived before we were born.",
