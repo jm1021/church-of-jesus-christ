@@ -52,6 +52,7 @@ class GameLevelDesert {
     greeting: sprite_greet_premortal,
     src: sprite_src_premortal,
     SCALE_FACTOR: 3,
+    ANIMATION_RATE: 100,
     INIT_POSITION: { x: (width * 2 / 80), y: (height * 0 / 40)},
     orientation: {rows: 1, columns: 1 },
     down: {row: 0, start: 0, columns: 3 },
@@ -89,9 +90,9 @@ class GameLevelDesert {
     greeting: sprite_greet_spirtWorld,
     src: sprite_src_spirtWorld,
     SCALE_FACTOR: 4,
+    ANIMATION_RATE: 100,
     INIT_POSITION: { x: (width * 28 / 80), y: (height * 14 / 40)},
     orientation: {rows: 1, columns: 1 },
-    down: {row: 0, start: 0, columns: 3 },
     hitbox: { widthPercentage: 0.1, heightPercentage: 0.1 },
     // Add dialogues array for random messages
     dialogues: [
@@ -126,9 +127,9 @@ class GameLevelDesert {
     greeting: sprite_greet_sun,
     src: sprite_src_sun,
     SCALE_FACTOR: 4,
+    ANIMATION_RATE: 100,
     INIT_POSITION: { x: (width * 65 / 80), y: (height * 0 / 40)},
     orientation: {rows: 1, columns: 1 },
-    down: {row: 0, start: 0, columns: 3 },
     hitbox: { widthPercentage: 0.1, heightPercentage: 0.1 },
     // Add dialogues array for random messages
     dialogues: [
@@ -164,9 +165,9 @@ class GameLevelDesert {
     greeting: sprite_greet_moon,
     src: sprite_src_moon,
     SCALE_FACTOR: 4,
+    ANIMATION_RATE: 100,
     INIT_POSITION: { x: (width * 65 / 80), y: (height * 13 / 40)},
     orientation: {rows: 1, columns: 1 },
-    down: {row: 0, start: 0, columns: 3 },
     hitbox: { widthPercentage: 0.1, heightPercentage: 0.1 },
     // Add dialogues array for random messages
     dialogues: [
@@ -201,9 +202,9 @@ class GameLevelDesert {
     greeting: sprite_greet_stars,
     src: sprite_src_stars,
     SCALE_FACTOR: 4,
+    ANIMATION_RATE: 100,
     INIT_POSITION: { x: (width * 65 / 80), y: (height * 25 / 40)},
     orientation: {rows: 1, columns: 1 },
-    down: {row: 0, start: 0, columns: 3 },
     hitbox: { widthPercentage: 0.1, heightPercentage: 0.1 },
     // Add dialogues array for random messages
     dialogues: [
@@ -241,7 +242,6 @@ class GameLevelDesert {
         pixels: {width: 2029, height: 2025},
         INIT_POSITION: { x: (width * 30 / 40), y: (height * 35 / 40)},
         orientation: {rows: 1, columns: 1 },
-        down: {row: 0, start: 0, columns: 1 },
         hitbox: { widthPercentage: 0.1, heightPercentage: 0.2 },
         // Add dialogues array for random messages
         dialogues: [
