@@ -149,7 +149,7 @@ Joseph Smith (D&C 137) and Joseph F. Smith (D&C 138) both reveal **our purpose i
 > “But behold, **from among the righteous, he organized his forces and appointed messengers, clothed with power and authority**, and commissioned them to **go forth and carry the light of the gospel** to them that were in darkness, even to all the spirits of men; and thus was the gospel preached to the dead.”
 
 This scripture resonates deeply with my own dream—an experience that felt like a personal glimpse into participating in the work of redemption.
-What follows are the *highlights as I recorded them.*
+What follows are the **revised highlights from my recorded text.**
 
 ---
 
@@ -157,7 +157,7 @@ What follows are the *highlights as I recorded them.*
 
 (Recorded in my scriptures that morning)
 
-### **Leaving the Worldly Event**
+#### **Leaving the Worldly Event**
 
 - I was at a very expensive event but asked to leave—I had lost my ticket.
 - As I took time to reflect on my situation:
@@ -172,14 +172,14 @@ What follows are the *highlights as I recorded them.*
     - I reflected on her teaching “little children” music in Primary.
   - He spoke with me about my dilemmas with prayer, which shifted into a discussion about technology.
 
-    - (Surely about the brain as a *receiver*, not only for audio but for feelings.)
+    - (Surely about the brain as a **receiver**, not only for audio but for feelings.)
   - As He departed, He told me where He would be:
 
     - A maintenance office in the theater where I had lost my ticket.
 
 ---
 
-### **Returning to Worldly Concerns**
+#### **Returning to Worldly Concerns**
 
 (It seems I immediately went back to the ticket problem, **solving problems**)
 
@@ -193,23 +193,23 @@ What follows are the *highlights as I recorded them.*
 
 ---
 
-### **Seeing Family — Past and Present**
+#### **Seeing Family — Past and Present**
 
 - I traveled with another person who seemed to be taking me somewhere I did not want to go.
 - I felt a lot of anxiety and mistrust.
 - I asked to be released, desiring to **return to Lora and Shay**.
 - The traveler was shocked and told me to enter into a nearby doorway.
-- Inside were many family members—embracing me with **acceptance and joy**.
+- Inside were many family members—embracing me as well as ward members, there was **acceptance and joy**.
 
 ---
 
-### **Awakening**
+#### **Awakening from Dream**
 
 (It was Sunday Morning)
 
 - I read something required for Ward Council.
-- Then I prepared for my Sunday School lesson and read **D&C 138:30**.
-- I immediately recorded the dream in Notes on D&.
+- Then I prepared for the Sunday School lesson and read **D&C 138:30**.
+- I immediately recorded the dream in Notes in my electronic scriptures.
 - In those moments, I felt a profound truth settle on me:
 
 > **“The gospel feels glorious.”**
