@@ -82,6 +82,43 @@ class GameLevelDesert {
     }
     };
 
+    const sprite_src_earth = path + "/images/gamify/earth.png";
+    const sprite_greet_earth = "Welcome to the earth Existence";
+    const sprite_data_earth = {
+    id: 'earth',
+    greeting: sprite_greet_earth,
+    src: sprite_src_earth,
+    SCALE_FACTOR: 3,
+    ANIMATION_RATE: 100,
+    INIT_POSITION: { x: (width * 2 / 80), y: (height * 26 / 40)},
+    orientation: {rows: 1, columns: 1 },
+    hitbox: { widthPercentage: 0.1, heightPercentage: 0.55 },
+    // Add dialogues array for random messages
+    dialogues: [
+        "We have the opportunity to prove we will be faithful on Earth.",
+        "In the earth existence, we live as physical beings with bodies.",
+        "We face challenges and trials in the earth existence to help us grow.",
+        "Jesus Christ provided a way for us to return to God through His Atonement.",
+        "We can choose to follow God's commandments and live righteously on Earth.",
+        "The earth existence is a time of learning, growth, and preparation for the next life.",
+        "We can receive guidance from the Holy Ghost to help us make good choices on Earth."
+    ],
+    reaction: function() {
+        // Use dialogue system instead of alert
+        if (this.dialogueSystem) {
+            this.showReactionDialogue();
+        } else {
+            console.log(sprite_greet_earth);
+        }
+    },
+    interact: function() {
+        // Show random dialogue message
+        if (this.dialogueSystem) {
+            this.showRandomDialogue();
+        }
+    }
+    };
+
     const sprite_src_spirtWorld = path + "/images/gamify/spiritWorld.png";
     const sprite_greet_spirtWorld = "Welcome to the spirtWorld Existence";
     const sprite_data_spirtWorld = {
@@ -370,6 +407,7 @@ class GameLevelDesert {
       { class: GamEnvBackground, data: image_data_desert },
       { class: Player, data: sprite_data_chillguy },
       { class: Npc, data: sprite_data_premortal }, 
+      { class: Npc, data: sprite_data_earth }, 
       { class: Npc, data: sprite_data_spirtWorld }, 
       { class: Npc, data: sprite_data_sun }, 
       { class: Npc, data: sprite_data_moon }, 
