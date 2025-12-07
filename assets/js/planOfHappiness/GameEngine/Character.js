@@ -359,12 +359,14 @@ class Character extends GameObject {
         // Update the object's scale to the new scale
         this.scale = newScale;
 
-        // Recalculate the object's size based on the new scale
-        this.size = this.scale.height / this.scaleFactor; 
+        // Use the smaller dimension to ensure proper scaling in both portrait and landscape
+        const minDimension = Math.min(this.scale.width, this.scale.height);
+        this.size = minDimension / this.scaleFactor; 
 
-        // Recalculate the object's velocity steps based on the new scale (3x faster)
-        this.xVelocity = (this.scale.width / this.stepFactor) * 3;
-        this.yVelocity = (this.scale.height / this.stepFactor) * 3;
+        // Recalculate the object's velocity steps based on the smaller dimension for consistent speed
+        const baseVelocity = (minDimension / this.stepFactor) * 3;
+        this.xVelocity = baseVelocity;
+        this.yVelocity = baseVelocity;
 
         // Set the object's width and height to the new size (object is a square)
         this.width = this.size;

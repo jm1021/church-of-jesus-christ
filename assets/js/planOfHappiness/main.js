@@ -30,7 +30,7 @@ class GameLevelDesert {
         SCALE_FACTOR: CHILLGUY_SCALE_FACTOR,
         STEP_FACTOR: 1000,
         ANIMATION_RATE: 50,
-        INIT_POSITION: { x: 0, y: height - (height/CHILLGUY_SCALE_FACTOR) }, 
+        INIT_POSITION: { x: 0, y: 0 }, 
         pixels: {height: 384, width: 512},
         orientation: {rows: 3, columns: 4 },
         down: {row: 0, start: 0, columns: 3 },
@@ -88,11 +88,11 @@ class GameLevelDesert {
     id: 'spirtWorld',
     greeting: sprite_greet_spirtWorld,
     src: sprite_src_spirtWorld,
-    SCALE_FACTOR: 4,
+    SCALE_FACTOR: 5,
     ANIMATION_RATE: 100,
-    INIT_POSITION: { x: (width * 28 / 80), y: (height * 14 / 40)},
+    INIT_POSITION: { x: (width * 28 / 80), y: (height * 15 / 40)},
     orientation: {rows: 1, columns: 1 },
-    hitbox: { widthPercentage: 0.1, heightPercentage: 0.1 },
+    hitbox: { widthPercentage: 0, heightPercentage: 0.1 },
     // Add dialogues array for random messages
     dialogues: [
         "The Spirit world is where we await the resurrection.",
