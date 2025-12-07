@@ -91,7 +91,7 @@ class GameLevelDesert {
     ANIMATION_RATE: 100,
     INIT_POSITION: { x: (width * 2 / 80), y: (height * 26 / 40)},
     orientation: {rows: 1, columns: 1 },
-    hitbox: { widthPercentage: 0.1, heightPercentage: 0.55 },
+    hitbox: { widthPercentage: 0.3, heightPercentage: 0.55 },
     // Add dialogues array for random messages
     dialogues: [
         "Earth life is your chance to grow through choice and experience.",
@@ -157,7 +157,7 @@ class GameLevelDesert {
     const sprite_src_sun = path + "/images/gamify/sun.png";
     const sprite_greet_sun = "Welcome to the Celestial Kingdom";
     const sprite_data_sun = {
-    id: 'sun',
+    id: 'celestial',
     greeting: sprite_greet_sun,
     src: sprite_src_sun,
     SCALE_FACTOR: 4,
@@ -193,7 +193,7 @@ class GameLevelDesert {
     const sprite_src_moon = path + "/images/gamify/moon.png";
     const sprite_greet_moon = "Welcome to the Terrestrial Kingdom";
     const sprite_data_moon = {
-    id: 'moon',
+    id: 'terrestrial',
     greeting: sprite_greet_moon,
     src: sprite_src_moon,
     SCALE_FACTOR: 4,
@@ -228,7 +228,7 @@ class GameLevelDesert {
     const sprite_src_stars = path + "/images/gamify/stars.png";
     const sprite_greet_stars = "Welcome to the Telestial Kingdom";
     const sprite_data_stars = {
-    id: 'stars',
+    id: 'telestial',
     greeting: sprite_greet_stars,
     src: sprite_src_stars,
     SCALE_FACTOR: 4,
