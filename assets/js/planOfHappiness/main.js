@@ -55,7 +55,6 @@ class GameLevelDesert {
     ANIMATION_RATE: 100,
     INIT_POSITION: { x: (width * 2 / 80), y: (height * 0 / 40)},
     orientation: {rows: 1, columns: 1 },
-    down: {row: 0, start: 0, columns: 3 },
     hitbox: { widthPercentage: 0.1, heightPercentage: 0.1 },
     // Add dialogues array for random messages
     dialogues: [
