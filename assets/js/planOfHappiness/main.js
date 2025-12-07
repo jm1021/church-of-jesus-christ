@@ -58,13 +58,12 @@ class GameLevelDesert {
     hitbox: { widthPercentage: 0.1, heightPercentage: 0.1 },
     // Add dialogues array for random messages
     dialogues: [
-        "The premortal existence is where we lived before we were born on Earth.",
-        "In the premortal existence, we lived as spirit children of God.",
-        "We had the opportunity to learn and grow in the premortal existence.",
-        "Jesus Christ was chosen to be our Savior in the premortal existence.",
-        "We made a plan with God to come to Earth and receive a physical body.",
-        "The premortal existence is a time of preparation for our mortal life.",
-        "We were taught about agency and the importance of making choices in the premortal existence.",
+        "“I saw the hosts of the dead, both small and great” (D&C 138:11). We lived before we were born.",
+        "We were organized before the world was created to fulfill God’s purposes (D&C 138:53-56).",
+        "Choice spirits were held in reserve to come forth in the latter days (D&C 138:56).",
+        "Jesus Christ was prepared from the foundation of the world to redeem us.",
+        "We used our agency in the premortal world—this is why we’re here now.",
+        "God prepared you in the premortal life for missions you would fulfill on Earth."
     ],
     reaction: function() {
         // Use dialogue system instead of alert
@@ -95,13 +94,12 @@ class GameLevelDesert {
     hitbox: { widthPercentage: 0.1, heightPercentage: 0.55 },
     // Add dialogues array for random messages
     dialogues: [
-        "We have the opportunity to prove we will be faithful on Earth.",
-        "In the earth existence, we live as physical beings with bodies.",
-        "We face challenges and trials in the earth existence to help us grow.",
-        "Jesus Christ provided a way for us to return to God through His Atonement.",
-        "We can choose to follow God's commandments and live righteously on Earth.",
-        "The earth existence is a time of learning, growth, and preparation for the next life.",
-        "We can receive guidance from the Holy Ghost to help us make good choices on Earth."
+        "Earth life is your chance to grow through choice and experience.",
+        "“All who have died without a knowledge of the gospel… shall be heirs of the celestial kingdom” (D&C 137:7).",
+        "Your choices here shape your eternal progression.",
+        "“The Lord will judge all men according to their works and desires of their hearts” (D&C 137:9).",
+        "Christ’s Atonement gives power to overcome every earthly trial.",
+        "Mortality is the school of experience — your spirit is learning what it cannot learn anywhere else."
     ],
     reaction: function() {
         // Use dialogue system instead of alert
@@ -132,13 +130,13 @@ class GameLevelDesert {
     hitbox: { widthPercentage: 0, heightPercentage: 0.1 },
     // Add dialogues array for random messages
     dialogues: [
-        "The Spirit world is where we await the resurrection.",
-        "In the Spirit world, we continue to learn and grow.",
-        "The Spirit world is divided into paradise and spirit prison.",
-        "Those who accepted the gospel in life go to paradise in the Spirit world.",
-        "Those who did not accept the gospel in life go to spirit prison in the Spirit world.",
-        "Missionary work is done in the Spirit world to teach those in spirit prison.",
-        "Christ organized the work in the Spirit world after His resurrection.",
+        "“The faithful elders… continue their labors in the Spirit world” (D&C 138:57).",
+        "The Spirit World is divided into Paradise and Spirit Prison (D&C 138).",
+        "Christ organized the preaching of the gospel among the dead (D&C 138:30).",
+        "“The dead who repent will be redeemed, through obedience to the ordinances of the house of God” (D&C 138:58).",
+        "No one is stuck—missionary work continues here!",
+        "The righteous rest in paradise; others await light and truth in spirit prison.",
+        "Everyone will hear the gospel, whether in this life or the next."
     ],
     reaction: function() {
         // Use dialogue system instead of alert
@@ -169,14 +167,12 @@ class GameLevelDesert {
     hitbox: { widthPercentage: 0.1, heightPercentage: 0.1 },
     // Add dialogues array for random messages
     dialogues: [
-        "There are 3 degress in the Celestial Kingdom.",
-        "Celestial Marriage is called the New and Everlasting Covenant.",
-        "God and Jesus Christ live in the Celestial Kingdom.",
-        "The Celestial Kingdom is the highest degree of glory.",
-        "Those who inherit the Celestial Kingdom will live with God and Jesus Christ.",
-        "Families can be together forever in the Celestial Kingdom.",
-        "The Celestial Kingdom is prepared for those who love God and keep His commandments.",
-        "The Celestial Kingdom is a place of peace, joy, and eternal progression."  
+        "“I saw the celestial kingdom of God” (D&C 137:1).",
+        "“The glory of God was beyond description” (D&C 137:3).",
+        "Children who die before age of accountability inherit celestial glory (D&C 137:10).",
+        "Alvin stood in celestial glory — showing God's mercy extends beyond mortal life (D&C 137:5).",
+        "Those who would have received the gospel with all their hearts are heirs of celestial glory (D&C 137:7–8).",
+        "Celestial glory is for the pure in heart, through Christ’s Atonement."
     ],
     reaction: function() {
         // Use dialogue system instead of alert
@@ -207,13 +203,11 @@ class GameLevelDesert {
     hitbox: { widthPercentage: 0.1, heightPercentage: 0.1 },
     // Add dialogues array for random messages
     dialogues: [
-        "The Terrestrial Kingdom is the second degree of glory.",
-        "Those who inherit the Terrestrial Kingdom are honorable people who were not valiant in the testimony of Jesus.",
-        "The Terrestrial Kingdom is a place of glory, but not the highest glory.",
-        "People in the Terrestrial Kingdom will receive the presence of Jesus Christ, but not the presence of God the Father.",
-        "The Terrestrial Kingdom is a place of peace and happiness for those who lived honorable lives.",
-        "The Terrestrial Kingdom is prepared for those who did not fully accept the gospel of Jesus Christ in this life.",
-        "The Terrestrial Kingdom is a place where people can continue to learn and grow."
+        "The Terrestrial Kingdom is a place for honorable people who were not valiant in the testimony of Jesus.",
+        "It is a kingdom of great glory, though not the same as the Celestial.",
+        "People in the Terrestrial Kingdom receive the presence of Jesus Christ.",
+        "Those here accepted the gospel later or were not fully committed in mortality.",
+        "It is a state of peace and learning beyond mortal comprehension."
     ],
     reaction: function() {
         // Use dialogue system instead of alert
@@ -244,12 +238,10 @@ class GameLevelDesert {
     hitbox: { widthPercentage: 0.1, heightPercentage: 0.1 },
     // Add dialogues array for random messages
     dialogues: [
-        "The Telestial Kingdom is the third degree of glory.",
-        "Those who inherit the Telestial Kingdom are people who did not accept the gospel of Jesus Christ in this life.",
-        "People in the Telestial Kingdom will not receive the presence of Jesus Christ or God the Father.",
-        "The Telestial Kingdom is a place of happiness for those who lived sinful lives.",
-        "The Telestial Kingdom is prepared for those who did not repent and accept the gospel of Jesus Christ in this life.",
-        "The Telestial Kingdom is a place where people can continue to learn and grow."
+        "The Telestial Kingdom is a kingdom of glory reserved for those who did not receive the gospel.",
+        "People here are visited by the Holy Ghost, but not by the Son or the Father.",
+        "Even the Telestial glory surpasses all understanding.",
+        "Those here are resurrected and rewarded according to their works.",
     ],
     reaction: function() {
         // Use dialogue system instead of alert
@@ -270,7 +262,7 @@ class GameLevelDesert {
     const sprite_src_endportal = path + "/images/gamify/exitportalfull.png";
     const sprite_greet_endportal = "Teleport to the End? Press E";
     const sprite_data_endportal = {
-        id: 'End Portal',
+        id: 'OuterDarkness',
         greeting: sprite_greet_endportal,
         src: sprite_src_endportal,
         SCALE_FACTOR: 8,
@@ -281,14 +273,10 @@ class GameLevelDesert {
         hitbox: { widthPercentage: 0.1, heightPercentage: 0.2 },
         // Add dialogues array for random messages
         dialogues: [
-            "The End dimension awaits brave explorers.",
-            "Through this portal lies a realm of floating islands and strange creatures.",
-            "The Enderman guards ancient treasures. Who knows what else lurks beyond this portal?",
-            "Many have entered. Few have returned.",
-            "The void calls to you. Will you answer?",
-            "The End is not truly the end, but a new beginning.",
-            "Strange things await you beyond this portal..",
-            "Prepare yourself. The journey beyond won't be easy."
+            "Outer darkness if for those who commit the unpardonable sin.",
+            "Outer darkness is a state of being completely cut off from God.",
+            "Those in outer darkness do not receive a resurrection or any glory.",
+            "It is a place of misery and regret beyond mortal comprehension."
         ],
         reaction: function() {
             // Don't show any reaction dialogue - this prevents the first alert
