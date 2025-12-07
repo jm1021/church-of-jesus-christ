@@ -136,36 +136,80 @@ Little children and those who die without the law “are redeemed.”
 “The hour is coming… when the dead shall hear the voice of the Son of God.”
 > Resurrection and postmortal ministry.
 
-## My Dream on Redemption
-
-Joseph and Joseph F. shared with us our current and future purposes in D&C 137, 138
-
-138:30 But behold, **from among the righteous, he organized his forces and appointed messengers, clothed with power and authority**, and commissioned them to **go forth and carry the light of the gospel** to them that were in darkness, even to all the spirits of men; and thus was the gospel preached to the dead.
-
-Living witnesses or Dead witnesses (enlightened).  Here are highlights of my dream on participating in the redemption.
+Here is your experience **cleanly structured, reverent, and beautifully formatted** in markdown—preserving your voice while giving it clarity and flow.
 
 ---
 
-Sunday Jan 17, 2016, recorded in my scriptures
+## Reflections Connected to **D&C 137–138**
 
-- At a very expensive event I was asked to leave, as I had lost my ticket.
-- Left Worldly even
-  - Someone proclaimed that Christ appeared, many fell in misery.
-  - I wondered if I would fall in shame as well.  But somehow I felt bolstered, perhaps the atonement.
-  - Christ came in my direction and we talked, he made me feel pure!
-  - We talked about pressing matters, perhaps the redemption.
-  - We disusse Tamara and he assured me she was very important and busy.  I reflected on her teaching 'little children' music in primary.
-  - Christ even talked to me about my delimas with prayer, which quickly went into a technology talk. (Surely about brains being receivers, not only audio but feelings.)
-  - As he left he told me where he would be, it was a maintenance office in the theater where I lost my ticket.
-- Returned to Woldly concerns
-  - I went to a service desk, there was much incompetence, a lowly staff member slipped me a copy of my ticket as the show was let out.
-  - I got involved in office, service desk, in make corrections, appointing and releasing staff.  We set goals for better service.
-  - As I came out, Christ was there as a maintenance man. He told me I could use a vehicle to reunite with my family.
-- Seeing Family Past and Present
-  - I was with another travelor who seemed to be taking me somewhere I did not want to go.  I requested to be released as I wanted to return to Lora and Shay.  
-  - This travelor was shocked and asked me to look iinto the door where there were many family members who greeted me with acceptance and hugs.
-- I awoke from My Dream
-  - I recorded my dream
-  - I read something required by Ward Council r
-  - I prepped for Sunday School lesson and read 138:30
-- At that moment, "The gospel feels glorious"
+Joseph Smith (D&C 137) and Joseph F. Smith (D&C 138) both reveal **our purpose in the plan of redemption—on both sides of the veil**.
+
+### **D&C 138:30**
+
+> “But behold, **from among the righteous, he organized his forces and appointed messengers, clothed with power and authority**, and commissioned them to **go forth and carry the light of the gospel** to them that were in darkness, even to all the spirits of men; and thus was the gospel preached to the dead.”
+
+This scripture resonates deeply with my own dream—an experience that felt like a personal glimpse into participating in the work of redemption.
+What follows are the *highlights as I recorded them.*
+
+---
+
+### **My Dream — Sunday, January 17, 2016**
+
+(Recorded in my scriptures that morning)
+
+### **Leaving the Worldly Event**
+
+- I was at a very expensive event but asked to leave—I had lost my ticket.
+- As I took time to reflect on my situation:
+
+  - Someone proclaimed that Christ had appeared. Many fell in misery.
+  - I wondered whether I would also fall in shame.
+  - Instead, I felt strengthened—perhaps through the Atonement.
+  - Christ walked toward me; **we talked**, and He made me feel **pure**.
+  - We discussed pressing matters—perhaps related to redemption.
+  - We spoke of Tamara; He assured me she was important and very busy.
+
+    - I reflected on her teaching “little children” music in Primary.
+  - He spoke with me about my dilemmas with prayer, which shifted into a discussion about technology.
+
+    - (Surely about the brain as a *receiver*, not only for audio but for feelings.)
+  - As He departed, He told me where He would be:
+
+    - A maintenance office in the theater where I had lost my ticket.
+
+---
+
+### **Returning to Worldly Concerns**
+
+(It seems I immediately went back to the ticket problem, **solving problems**)
+
+- I went to the service desk; there was disorder and incompetence.
+- A humble staff member quietly slipped me a copy of my lost ticket.
+- I found myself helping in the office—correcting, organizing, appointing, and releasing staff.
+- We set goals for better service and order.
+- When I stepped out, **Christ was there**, now appearing as a maintenance man.
+
+> **He told me I could use a vehicle to reunite with my family.**
+
+---
+
+### **Seeing Family — Past and Present**
+
+- I traveled with another person who seemed to be taking me somewhere I did not want to go.
+- I felt a lot of anxiety and mistrust.
+- I asked to be released, desiring to **return to Lora and Shay**.
+- The traveler was shocked and told me to enter into a nearby doorway.
+- Inside were many family members—embracing me with **acceptance and joy**.
+
+---
+
+### **Awakening**
+
+(It was Sunday Morning)
+
+- I read something required for Ward Council.
+- Then I prepared for my Sunday School lesson and read **D&C 138:30**.
+- I immediately recorded the dream in Notes on D&.
+- In those moments, I felt a profound truth settle on me:
+
+> **“The gospel feels glorious.”**
