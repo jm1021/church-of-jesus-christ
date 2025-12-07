@@ -60,6 +60,8 @@ The scoreboard numbers show that if justice were the whole story, most of God’
 **This is why mercy is essential.**  
 The Plan works because **Christ opens the way for every soul—past, present, or future**—to receive the same ordinances, the same truth, and the same opportunity.
 
+[Plan of Happiness]({{site.baseurl}}/gamify/planOfHappiness)
+
 ---
 
 ### Mercy — Doctrine and Covenants 137, 138
@@ -67,7 +69,6 @@ The Plan works because **Christ opens the way for every soul—past, present, or
 These passages show the mercy of God regarding ordinances and opportunity.  
 They give us insight into the mission of Jesus Christ and the reach of His redemption.
 
-[Plan of Happiness]({{site.baseurl}}/gamify/planOfHappiness)
 
 ### Doctrine & Covenants 137:7  
 
