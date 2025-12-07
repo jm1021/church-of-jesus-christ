@@ -69,7 +69,6 @@ The Plan works because **Christ opens the way for every soul—past, present, or
 These passages show the mercy of God regarding ordinances and opportunity.  
 They give us insight into the mission of Jesus Christ and the reach of His redemption.
 
-
 ### Doctrine & Covenants 137:7  
 
 “All who have died without a knowledge of this gospel,  
@@ -80,3 +79,57 @@ shall be heirs of the celestial kingdom of God.”
 
 “And I also beheld that all children who die before they arrive at the years of accountability  
 are saved in the celestial kingdom of heaven.”
+
+### D&C 138:11, 14
+
+“I beheld that the faithful elders of this dispensation… continue their labors in the preaching of the gospel…
+Among those who are in darkness and under the bondage of sin.”
+
+### D&C 138:30–31
+
+“The dead who repent will be redeemed, through obedience to the ordinances of the house of God…
+And after they have paid the penalty of their transgressions.”
+
+### D&C 138:58–59
+
+“The dead who repent will be redeemed…
+And all the faithful shall be given a crown of life.”
+
+## Scriptures That Clarify Paradise & Prison
+
+### Luke 23:43
+
+“Today shalt thou be with me in paradise.”
+> Jesus teaches the existence of paradise directly.
+
+### 1 Peter 3:18–20
+
+Christ “went and preached unto the spirits in prison.”
+> Shows that prison is real and that Christ ministers there.
+
+### 1 Peter 4:6
+
+“For this cause was the gospel preached also to them that are dead…”
+> Explains the purpose of Spirit World missionary work.
+
+## Scriptures Showing Mercy, Opportunity, and God's Fairness
+
+### 2 Nephi 9:12–13
+
+Through the Holy Messiah, “the spirits of all men… are brought back into the presence of God.”
+> Everyone gets a fair resurrection and judgment.
+
+### Alma 40:11–14
+
+“The spirits of all men… are taken home to that God who gave them life.”
+> One of the clearest teachings of the Spirit World divisions: righteous… in a state of paradise” and “wicked… in darkness.
+
+### Mosiah 15:24–25
+
+Little children and those who die without the law “are redeemed.”
+> Supports D&C 137:10.
+
+### John 5:25-28
+
+“The hour is coming… when the dead shall hear the voice of the Son of God.”
+> Resurrection and postmortal ministry.
