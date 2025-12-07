@@ -162,7 +162,7 @@ class GameLevelDesert {
     src: sprite_src_sun,
     SCALE_FACTOR: 4,
     ANIMATION_RATE: 100,
-    INIT_POSITION: { x: (width * 65 / 80), y: (height * 0 / 40)},
+    INIT_POSITION: { x: (width * 65 / 80), y: (height * 5 / 40)},
     orientation: {rows: 1, columns: 1 },
     hitbox: { widthPercentage: 0.1, heightPercentage: 0.1 },
     // Add dialogues array for random messages
@@ -198,7 +198,7 @@ class GameLevelDesert {
     src: sprite_src_moon,
     SCALE_FACTOR: 4,
     ANIMATION_RATE: 100,
-    INIT_POSITION: { x: (width * 65 / 80), y: (height * 13 / 40)},
+    INIT_POSITION: { x: (width * 65 / 80), y: (height * 18 / 40)},
     orientation: {rows: 1, columns: 1 },
     hitbox: { widthPercentage: 0.1, heightPercentage: 0.1 },
     // Add dialogues array for random messages
@@ -233,7 +233,7 @@ class GameLevelDesert {
     src: sprite_src_stars,
     SCALE_FACTOR: 4,
     ANIMATION_RATE: 100,
-    INIT_POSITION: { x: (width * 65 / 80), y: (height * 25 / 40)},
+    INIT_POSITION: { x: (width * 65 / 80), y: (height * 30 / 40)},
     orientation: {rows: 1, columns: 1 },
     hitbox: { widthPercentage: 0.1, heightPercentage: 0.1 },
     // Add dialogues array for random messages
