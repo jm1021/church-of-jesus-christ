@@ -89,7 +89,7 @@ class GameLevelDesert {
     src: sprite_src_earth,
     SCALE_FACTOR: 3,
     ANIMATION_RATE: 100,
-    INIT_POSITION: { x: (width * 2 / 80), y: (height * 26 / 40)},
+    INIT_POSITION: { x: (width * 2 / 80), y: (height * 27 / 40)},
     orientation: {rows: 1, columns: 1 },
     hitbox: { widthPercentage: 0.3, heightPercentage: 0.55 },
     // Add dialogues array for random messages
