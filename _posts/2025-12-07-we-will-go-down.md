@@ -43,8 +43,8 @@ The promise of **“glory added upon their heads”** shows the reward for those
 
 | **Value** | **Description** |
 |-----------|----------------|
-| **80%**   | Still need opportunity—required by justice—to receive their ordinances |
-| **100%**  | Need opportunity to repent and overcome the obstacles of agency—required by justice to become pure |
+| **80%**   | Still need an afterlife opportunity—required by justice—to receive proxy ordinances, the found and missing |
+| **100%**  | Require repentance to overcome the obstacles of agency—the atonement required by justice to become pure or perfect in Christ|
 
 ---
 
