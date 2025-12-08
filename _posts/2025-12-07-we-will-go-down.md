@@ -50,12 +50,12 @@ The promise of **“glory added upon their heads”** shows the reward for those
 
 ## The Great Plan of Happiness
 
-The scoreboard numbers show that if justice were the whole story, most of God’s children—including most of our own ancestors—would be left without the blessings Heavenly Father requires.
+The scoreboard numbers show that if justice were the whole story, all of God’s children—including all of our own ancestors—would be left without the blessings Heavenly Father requires.
 
 > Every ancestor, like every one of us, is invited to **do all things** and receive **added glory** through the plan of salvation.
 
-- Justice requires ordinances and repentance.  
-- Mercy provides multiple paths to succeed.
+- Justice requires ordinances and repentance (100%).  
+- Mercy provides multiple paths to succeed, **infinite and eternal** opportunites.
 
 **This is why mercy is essential.**  
 The Plan works because **Christ opens the way for every soul—past, present, or future**—to receive the same ordinances, the same truth, and the same opportunity.
