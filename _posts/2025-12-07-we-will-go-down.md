@@ -41,10 +41,10 @@ Why is a family tree important? It aligns with the council in Heaven.
 The phrase **“to do all things”** reminds us that life’s plan requires each person to make choices and act according to God’s commandments.  
 The promise of **“glory added upon their heads”** shows the reward for those who faithfully keep their first and second estates.  
 
-| **Value** | **Description** |
+| **Value** | **Justice requirements** |
 |-----------|----------------|
-| **80%**   | Still need an afterlife opportunity—required by justice—to receive proxy ordinances, the found and missing |
-| **100%**  | Require repentance to overcome the obstacles of agency—the atonement required by justice to become pure or perfect in Christ|
+| **80%**   | Only 20% received living ordinances—required by justice—others need proxy ordinances, the familty tree discovered and the missing |
+| **100%**  | Everyone needs repentance-to overcome the obstacles of failure in agency, the atonement helps us to become perfect in Christ |
 
 ---
 
